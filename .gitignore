@@ -46,4 +46,4 @@ preguntastxt
 questions-needing-images.json
 evaluacion-adaptativa/
 evaluationApp/
-scripts/
+# scripts/ — incluido para deploy
