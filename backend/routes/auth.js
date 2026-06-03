@@ -41,7 +41,7 @@ router.post('/login', (req, res) => {
 // POST /api/auth/register - Solo para docentes (admin los crea desde el panel)
 // Los estudiantes son dados de alta por el docente, no se auto-registran
 router.post('/register', (req, res) => {
-  const { username, password, name, role } = req.body;
+  const { username, password, name, role, country, state, school } = req.body;
   if (!username || !password || !name) {
     return res.status(400).json({ error: 'Usuario, contraseña y nombre son requeridos' });
   }
@@ -53,22 +53,31 @@ router.post('/register', (req, res) => {
 
   const hash = bcrypt.hashSync(password, 10);
   const result = db.prepare(
-    'INSERT INTO users (username, password, role, name) VALUES (?, ?, ?, ?)'
-  ).run(username, hash, allowedRole, name);
+    'INSERT INTO users (username, password, role, name, country, state, school) VALUES (?, ?, ?, ?, ?, ?, ?)'
+  ).run(username, hash, allowedRole, name, country || 'México', state || '', school || '');
 
   const user = db.prepare('SELECT * FROM users WHERE id = ?').get(result.lastInsertRowid);
   const token = signToken(user);
 
   res.status(201).json({
     token,
-    user: { id: user.id, username: user.username, role: user.role, name: user.name }
+    user: { id: user.id, username: user.username, role: user.role, name: user.name, country: user.country, state: user.state, school: user.school }
   });
 });
 
 // GET /api/auth/me
 router.get('/me', authMiddleware, (req, res) => {
-  const user = db.prepare('SELECT id, username, role, name, grade, avatar, created_at FROM users WHERE id = ?').get(req.user.id);
+  const user = db.prepare('SELECT id, username, role, name, grade, avatar, country, state, school, created_at FROM users WHERE id = ?').get(req.user.id);
   if (!user) return res.status(404).json({ error: 'Usuario no encontrado' });
+  res.json(user);
+});
+
+// PUT /api/auth/profile — actualizar perfil (país, estado, escuela)
+router.put('/profile', authMiddleware, (req, res) => {
+  const { country, state, school } = req.body;
+  db.prepare('UPDATE users SET country = ?, state = ?, school = ? WHERE id = ?')
+    .run(country || 'México', state || '', school || '', req.user.id);
+  const user = db.prepare('SELECT id, username, role, name, grade, avatar, country, state, school, created_at FROM users WHERE id = ?').get(req.user.id);
   res.json(user);
 });
 

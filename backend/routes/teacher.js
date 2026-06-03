@@ -92,7 +92,7 @@ router.post('/groups/:id/students', (req, res) => {
   const group = db.prepare('SELECT * FROM groups WHERE id = ? AND teacher_id = ?').get(req.params.id, req.user.id);
   if (!group) return res.status(404).json({ error: 'Grupo no encontrado' });
 
-  const { name, username, password } = req.body;
+  const { name, username, password, country, state, school } = req.body;
   if (!name || !username) return res.status(400).json({ error: 'Nombre y matrícula son requeridos' });
 
   const existing = db.prepare('SELECT id FROM users WHERE username = ?').get(username);
@@ -102,8 +102,8 @@ router.post('/groups/:id/students', (req, res) => {
   const hash = bcrypt.hashSync(rawPassword, 10);
 
   const result = db.prepare(
-    "INSERT INTO users (username, password, role, name, grade, group_id) VALUES (?, ?, 'student', ?, ?, ?)"
-  ).run(username, hash, name, req.body.grade || null, group.id);
+    "INSERT INTO users (username, password, role, name, grade, group_id, country, state, school) VALUES (?, ?, 'student', ?, ?, ?, ?, ?, ?)"
+  ).run(username, hash, name, req.body.grade || null, group.id, country || 'México', state || '', school || '');
 
   res.status(201).json({
     id: result.lastInsertRowid,

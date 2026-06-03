@@ -8,6 +8,7 @@ const sessionRoutes = require('./routes/sessions');
 const adminRoutes = require('./routes/admin');
 const teacherRoutes = require('./routes/teacher');
 const studentRoutes = require('./routes/student');
+const messageRoutes = require('./routes/messages');
 
 // Inicializar base de datos (crea tablas y admin si no existen)
 require('./database/db');
@@ -36,6 +37,7 @@ app.use('/api/sessions', sessionRoutes);
 app.use('/api/admin', adminRoutes);
 app.use('/api/teacher', teacherRoutes);
 app.use('/api/student', studentRoutes);
+app.use('/api/messages', messageRoutes);
 
 // Health check
 app.get('/api/health', (req, res) => {

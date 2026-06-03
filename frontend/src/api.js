@@ -32,8 +32,8 @@ export const auth = {
   login: (username, password) =>
     request('POST', '/auth/login', { username, password }),
 
-  register: (username, password, name, grade) =>
-    request('POST', '/auth/register', { username, password, name, grade }),
+  register: (username, password, name, grade, country, state, school) =>
+    request('POST', '/auth/register', { username, password, name, grade, country, state, school }),
 
   me: () => request('GET', '/auth/me'),
 };
@@ -92,6 +92,16 @@ export const teacher = {
   createActivity: (groupId, data) => request('POST', `/teacher/groups/${groupId}/activities`, data),
   toggleActivity: (activityId, status) => request('PATCH', `/teacher/activities/${activityId}/status`, { status }),
   deleteActivity: (activityId) => request('DELETE', `/teacher/activities/${activityId}`),
+};
+
+// ── Messages ──────────────────────────────────────────────────────────────────
+
+export const messages = {
+  getAll: () => request('GET', '/messages'),
+  send: (data) => request('POST', '/messages', data),
+  markRead: (id) => request('PUT', `/messages/${id}/read`),
+  markAllRead: () => request('PUT', '/messages/read-all'),
+  getUsers: () => request('GET', '/messages/users'),
 };
 
 // ── Admin ─────────────────────────────────────────────────────────────────────

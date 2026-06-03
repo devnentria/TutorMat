@@ -2,6 +2,7 @@ import React, { useState, useRef } from 'react';
 import { useAuth } from '../../contexts/AuthContext';
 import { student } from '../../api';
 import Navbar from '../Navbar';
+import GeoSelector from '../common/GeoSelector';
 
 export default function StudentProfile() {
   const { user, login } = useAuth();
@@ -19,6 +20,26 @@ export default function StudentProfile() {
   const [uploadErr, setUploadErr] = useState('');
   const [savingAvatar, setSavingAvatar] = useState(false);
   const fileRef = useRef();
+
+  const [geo, setGeo] = useState({ country: user?.country || 'México', state: user?.state || '', school: user?.school || '' });
+  const [geoMsg, setGeoMsg] = useState('');
+  const [geoErr, setGeoErr] = useState('');
+  const [savingGeo, setSavingGeo] = useState(false);
+
+  const handleGeoSave = async (e) => {
+    e.preventDefault();
+    setSavingGeo(true);
+    setGeoMsg('');
+    setGeoErr('');
+    try {
+      await student.updateProfile(geo);
+      setGeoMsg('Información actualizada correctamente.');
+    } catch (err) {
+      setGeoErr(err.message);
+    } finally {
+      setSavingGeo(false);
+    }
+  };
 
   const handlePasswordChange = async (e) => {
     e.preventDefault();
@@ -82,7 +103,7 @@ export default function StudentProfile() {
         </div>
 
         {/* Tabs */}
-        <div className="flex gap-2 mb-6">
+        <div className="flex gap-2 mb-6 flex-wrap">
           <button
             onClick={() => setTab('password')}
             className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
@@ -100,6 +121,15 @@ export default function StudentProfile() {
                 : 'bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-300 border border-gray-200 dark:border-gray-700'
             }`}>
             Foto de perfil
+          </button>
+          <button
+            onClick={() => setTab('info')}
+            className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+              tab === 'info'
+                ? 'bg-blue-600 text-white'
+                : 'bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-300 border border-gray-200 dark:border-gray-700'
+            }`}>
+            Mi información
           </button>
         </div>
 
@@ -163,6 +193,22 @@ export default function StudentProfile() {
               {savingAvatar ? 'Subiendo...' : 'Guardar foto'}
             </button>
           </div>
+        )}
+
+        {tab === 'info' && (
+          <form onSubmit={handleGeoSave} className="card space-y-4">
+            {geoErr && <p className="text-sm text-red-600 bg-red-50 rounded-lg p-3">{geoErr}</p>}
+            {geoMsg && <p className="text-sm text-green-600 bg-green-50 rounded-lg p-3">{geoMsg}</p>}
+            <GeoSelector
+              country={geo.country}
+              state={geo.state}
+              school={geo.school}
+              onChange={setGeo}
+            />
+            <button type="submit" disabled={savingGeo} className="btn-primary w-full">
+              {savingGeo ? 'Guardando...' : 'Guardar información'}
+            </button>
+          </form>
         )}
       </div>
     </div>

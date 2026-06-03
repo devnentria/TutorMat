@@ -1,7 +1,9 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
 import { useTheme } from '../contexts/ThemeContext';
+import { messages as msgApi } from '../api';
+import MessagesPanel from './Messages/MessagesPanel';
 
 export default function Navbar() {
   const { user, logout } = useAuth();
@@ -9,6 +11,8 @@ export default function Navbar() {
   const navigate = useNavigate();
   const location = useLocation();
   const [menuOpen, setMenuOpen] = useState(false);
+  const [msgPanelOpen, setMsgPanelOpen] = useState(false);
+  const [unreadCount, setUnreadCount] = useState(0);
 
   const handleLogout = () => {
     logout();
@@ -16,6 +20,17 @@ export default function Navbar() {
   };
 
   const isActive = (path) => location.pathname === path;
+
+  // Polling de mensajes no leídos cada 30 segundos
+  useEffect(() => {
+    if (!user) return;
+    const fetchUnread = () => {
+      msgApi.getAll().then(d => setUnreadCount(d.unread || 0)).catch(() => {});
+    };
+    fetchUnread();
+    const interval = setInterval(fetchUnread, 30000);
+    return () => clearInterval(interval);
+  }, [user]);
 
   return (
     <nav className="bg-blue-700 dark:bg-gray-900 text-white shadow-lg">
@@ -73,6 +88,23 @@ export default function Navbar() {
               </button>
             )}
 
+            {/* Botón de mensajes */}
+            {user && (
+              <button
+                onClick={() => setMsgPanelOpen(true)}
+                title="Mensajes"
+                className="relative p-2 rounded-lg text-blue-200 hover:text-white hover:bg-blue-600 dark:hover:bg-gray-700 transition-colors">
+                <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                </svg>
+                {unreadCount > 0 && (
+                  <span className="absolute -top-1 -right-1 bg-red-500 text-white text-xs rounded-full min-w-[18px] h-[18px] flex items-center justify-center px-1 font-bold">
+                    {unreadCount > 99 ? '99+' : unreadCount}
+                  </span>
+                )}
+              </button>
+            )}
+
             {user ? (
               <div className="flex items-center space-x-3 ml-4 border-l border-blue-500 dark:border-gray-700 pl-4">
                 {user.role === 'student' ? (
@@ -110,6 +142,20 @@ export default function Navbar() {
               <button onClick={toggle}
                 className="p-2 rounded-lg text-blue-200 hover:text-white transition-colors">
                 {dark ? '☀️' : '🌙'}
+              </button>
+            )}
+            {user && (
+              <button
+                onClick={() => setMsgPanelOpen(true)}
+                className="relative p-2 rounded-lg text-blue-200 hover:text-white transition-colors">
+                <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                </svg>
+                {unreadCount > 0 && (
+                  <span className="absolute -top-1 -right-1 bg-red-500 text-white text-xs rounded-full min-w-[18px] h-[18px] flex items-center justify-center px-1 font-bold">
+                    {unreadCount > 99 ? '99+' : unreadCount}
+                  </span>
+                )}
               </button>
             )}
             <button onClick={() => setMenuOpen(!menuOpen)} className="text-white">
@@ -150,6 +196,9 @@ export default function Navbar() {
           )}
         </div>
       )}
+
+      {/* Panel de mensajes */}
+      <MessagesPanel open={msgPanelOpen} onClose={() => setMsgPanelOpen(false)} />
     </nav>
   );
 }

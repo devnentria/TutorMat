@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { teacher } from '../../api';
 import Navbar from '../Navbar';
+import GeoSelector from '../common/GeoSelector';
 
 function genPassword(username) {
   return username + Math.floor(100 + Math.random() * 900);
@@ -19,6 +20,7 @@ export default function GroupDetail() {
   // Estudiantes
   const [showAdd, setShowAdd] = useState(false);
   const [form, setForm] = useState({ name: '', username: '', grade: '', password: '' });
+  const [geoForm, setGeoForm] = useState({ country: 'México', state: '', school: '' });
   const [saving, setSaving] = useState(false);
   const [newCredentials, setNewCredentials] = useState(null);
   const [resetTarget, setResetTarget] = useState(null);
@@ -56,9 +58,11 @@ export default function GroupDetail() {
       const pwd = form.password || genPassword(form.username);
       const student = await teacher.addStudent(groupId, {
         name: form.name, username: form.username, grade: form.grade, password: pwd,
+        country: geoForm.country, state: geoForm.state, school: geoForm.school,
       });
       setNewCredentials({ name: student.name, username: student.username, password: student.password });
       setForm({ name: '', username: '', grade: '', password: '' });
+      setGeoForm({ country: 'México', state: '', school: '' });
       setShowAdd(false);
       load();
     } catch (e) { setError(e.message); }
@@ -222,6 +226,12 @@ export default function GroupDetail() {
                       <input value={form.password} onChange={e => setForm(f => ({ ...f, password: e.target.value }))}
                         placeholder="Dejar vacío para generar automáticamente" className="input-field" />
                     </div>
+                    <GeoSelector
+                      country={geoForm.country}
+                      state={geoForm.state}
+                      school={geoForm.school}
+                      onChange={setGeoForm}
+                    />
                     {error && <p className="text-red-600 text-sm">{error}</p>}
                     <div className="flex gap-3 pt-2">
                       <button type="submit" disabled={saving} className="btn-primary flex-1">

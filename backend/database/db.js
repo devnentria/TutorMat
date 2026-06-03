@@ -120,6 +120,26 @@ try {
   db.exec('ALTER TABLE users ADD COLUMN avatar TEXT');
 } catch {}
 
+// Migración: agregar country, state, school a users si no existen
+try { db.exec("ALTER TABLE users ADD COLUMN country TEXT DEFAULT 'México'"); } catch {}
+try { db.exec("ALTER TABLE users ADD COLUMN state TEXT DEFAULT ''"); } catch {}
+try { db.exec("ALTER TABLE users ADD COLUMN school TEXT DEFAULT ''"); } catch {}
+
+// Migración: tabla de mensajes
+db.exec(`
+  CREATE TABLE IF NOT EXISTS messages (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    from_user_id INTEGER NOT NULL,
+    to_user_id INTEGER NOT NULL,
+    subject TEXT NOT NULL DEFAULT '',
+    body TEXT NOT NULL,
+    read INTEGER NOT NULL DEFAULT 0,
+    created_at TEXT NOT NULL DEFAULT (datetime('now')),
+    FOREIGN KEY (from_user_id) REFERENCES users(id),
+    FOREIGN KEY (to_user_id) REFERENCES users(id)
+  )
+`);
+
 // Crear admin por defecto si no existe
 const adminExists = db.prepare("SELECT id FROM users WHERE role = 'admin' LIMIT 1").get();
 if (!adminExists) {

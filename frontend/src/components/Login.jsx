@@ -1,12 +1,14 @@
 import React, { useState } from 'react';
 import { useNavigate, Navigate } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
+import GeoSelector from './common/GeoSelector';
 
 export default function Login() {
   const { user, login, register } = useAuth();
   const navigate = useNavigate();
   const [mode, setMode] = useState('login'); // 'login' | 'register-teacher'
   const [form, setForm] = useState({ username: '', password: '', name: '' });
+  const [geo, setGeo] = useState({ country: 'México', state: '', school: '' });
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
   const [showPassword, setShowPassword] = useState(false);
@@ -32,7 +34,7 @@ export default function Login() {
         navigate(dest);
       } else {
         if (!form.name.trim()) { setError('El nombre es requerido'); setLoading(false); return; }
-        await register(form.username, form.password, form.name, null);
+        await register(form.username, form.password, form.name, null, geo.country, geo.state, geo.school);
         navigate('/teacher');
       }
     } catch (err) {
@@ -90,11 +92,19 @@ export default function Login() {
             </div>
 
             {mode === 'register-teacher' && (
-              <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">Nombre completo</label>
-                <input type="text" name="name" value={form.name} onChange={handleChange}
-                  required placeholder="Tu nombre completo" className="input-field" />
-              </div>
+              <>
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-1">Nombre completo</label>
+                  <input type="text" name="name" value={form.name} onChange={handleChange}
+                    required placeholder="Tu nombre completo" className="input-field" />
+                </div>
+                <GeoSelector
+                  country={geo.country}
+                  state={geo.state}
+                  school={geo.school}
+                  onChange={setGeo}
+                />
+              </>
             )}
 
             <div>

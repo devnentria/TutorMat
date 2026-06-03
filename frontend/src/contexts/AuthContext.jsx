@@ -28,8 +28,8 @@ export function AuthProvider({ children }) {
     return data.user;
   };
 
-  const register = async (username, password, name, grade) => {
-    const data = await auth.register(username, password, name, grade);
+  const register = async (username, password, name, grade, country, state, school) => {
+    const data = await auth.register(username, password, name, grade, country, state, school);
     localStorage.setItem('evalutrig_token', data.token);
     setUser(data.user);
     return data.user;
