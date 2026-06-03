@@ -14,6 +14,7 @@ import TeachersList from './components/Admin/TeachersList';
 import TeacherDashboard from './components/Teacher/TeacherDashboard';
 import GroupDetail from './components/Teacher/GroupDetail';
 import GroupStats from './components/Teacher/GroupStats';
+import StudentDetailTeacher from './components/Teacher/StudentDetailTeacher';
 import StudentHome from './components/Student/StudentHome';
 import StudentProfile from './components/Student/StudentProfile';
 
@@ -82,6 +83,9 @@ function AppRoutes() {
       } />
       <Route path="/teacher/groups/:groupId/stats" element={
         <ProtectedRoute roles={['teacher', 'admin']}><GroupStats /></ProtectedRoute>
+      } />
+      <Route path="/teacher/students/:id" element={
+        <ProtectedRoute roles={['teacher', 'admin']}><StudentDetailTeacher /></ProtectedRoute>
       } />
 
       {/* Admin */}

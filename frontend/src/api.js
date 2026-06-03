@@ -89,6 +89,7 @@ export const teacher = {
   removeStudent: (studentId) => request('DELETE', `/teacher/students/${studentId}`),
   resetPassword: (studentId, password) => request('PUT', `/teacher/students/${studentId}/reset-password`, { password }),
   getGroupStats: (groupId) => request('GET', `/teacher/groups/${groupId}/stats`),
+  getStudentDetail: (studentId) => request('GET', `/teacher/students/${studentId}`),
   getActivities: (groupId) => request('GET', `/teacher/groups/${groupId}/activities`),
   createActivity: (groupId, data) => request('POST', `/teacher/groups/${groupId}/activities`, data),
   toggleActivity: (activityId, status) => request('PATCH', `/teacher/activities/${activityId}/status`, { status }),

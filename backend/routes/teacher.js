@@ -2,6 +2,7 @@ const express = require('express');
 const bcrypt = require('bcryptjs');
 const db = require('../database/db');
 const { authMiddleware } = require('../middleware/auth');
+const { abilityToLevel, generateRecommendations } = require('../services/irt');
 
 const router = express.Router();
 router.use(authMiddleware);
@@ -284,7 +285,142 @@ router.get('/groups/:id/stats', (req, res) => {
     GROUP BY u.id ORDER BY avg_ability DESC LIMIT 5
   `).all(req.params.id);
 
-  res.json({ group, students, sessions, ability_distribution: abilityDist, category_performance: categoryPerf, top_students: topStudents });
+  // Sessions by day (last 30 days)
+  const sessionsByDay = db.prepare(`
+    SELECT DATE(s.start_time) as date, COUNT(*) as count
+    FROM sessions s JOIN users u ON s.user_id = u.id
+    WHERE u.group_id = ? AND s.start_time >= DATE('now', '-30 days')
+    GROUP BY DATE(s.start_time)
+    ORDER BY date
+  `).all(req.params.id);
+
+  // Per-student stats
+  const studentRows = db.prepare(`
+    SELECT u.id, u.name, u.username, u.grade,
+           COUNT(s.id) as total_sessions,
+           AVG(CASE WHEN s.status='completed' THEN s.final_ability END) as avg_ability,
+           AVG(CASE WHEN s.status='completed' AND s.total_questions > 0
+                    THEN CAST(s.correct_answers AS REAL) / s.total_questions END) as avg_accuracy
+    FROM users u
+    LEFT JOIN sessions s ON u.id = s.user_id
+    WHERE u.group_id = ? AND u.role = 'student'
+    GROUP BY u.id
+    ORDER BY u.name
+  `).all(req.params.id);
+
+  // For best/worst category, fetch per-student category responses
+  const studentIds = studentRows.map(s => s.id);
+  const perStudent = studentRows.map(s => {
+    const catRows = db.prepare(`
+      SELECT q.category, COUNT(*) as total, SUM(r.is_correct) as correct
+      FROM responses r
+      JOIN questions q ON r.question_id = q.id
+      JOIN sessions sess ON r.session_id = sess.id
+      WHERE sess.user_id = ?
+      GROUP BY q.category
+    `).all(s.id);
+
+    let bestCategory = null;
+    let worstCategory = null;
+    if (catRows.length > 0) {
+      const sorted = catRows
+        .filter(c => c.total > 0)
+        .sort((a, b) => (b.correct / b.total) - (a.correct / a.total));
+      bestCategory = sorted.length > 0 ? sorted[0].category : null;
+      worstCategory = sorted.length > 0 ? sorted[sorted.length - 1].category : null;
+    }
+
+    return {
+      id: s.id,
+      name: s.name,
+      username: s.username,
+      grade: s.grade,
+      total_sessions: s.total_sessions,
+      avg_ability: s.avg_ability,
+      accuracy: s.avg_accuracy != null ? Math.round(s.avg_accuracy * 100) : null,
+      best_category: bestCategory,
+      worst_category: worstCategory,
+    };
+  });
+
+  res.json({
+    group,
+    students,
+    sessions,
+    ability_distribution: abilityDist,
+    category_performance: categoryPerf,
+    top_students: topStudents,
+    sessions_by_day: sessionsByDay,
+    per_student: perStudent,
+  });
+});
+
+// GET /api/teacher/students/:id — perfil detallado de un estudiante
+router.get('/students/:id', (req, res) => {
+  const student = db.prepare(`
+    SELECT u.* FROM users u
+    JOIN groups g ON u.group_id = g.id
+    WHERE u.id = ? AND g.teacher_id = ? AND u.role = 'student'
+  `).get(req.params.id, req.user.id);
+  if (!student) return res.status(404).json({ error: 'Estudiante no encontrado o no pertenece a tu grupo' });
+
+  // Category stats across ALL sessions
+  const catRows = db.prepare(`
+    SELECT q.category, COUNT(*) as total, SUM(r.is_correct) as correct,
+           ROUND(AVG(r.response_time_ms)) as avg_time_ms
+    FROM responses r
+    JOIN questions q ON r.question_id = q.id
+    JOIN sessions s ON r.session_id = s.id
+    WHERE s.user_id = ?
+    GROUP BY q.category
+    ORDER BY q.category
+  `).all(student.id);
+
+  // Session history (last 20)
+  const sessionHistory = db.prepare(`
+    SELECT id, start_time, end_time, total_questions, correct_answers, final_ability, status
+    FROM sessions
+    WHERE user_id = ?
+    ORDER BY start_time DESC
+    LIMIT 20
+  `).all(student.id);
+
+  // Build categoryStats object for generateRecommendations
+  const categoryStats = {};
+  for (const row of catRows) {
+    categoryStats[row.category] = {
+      total: row.total,
+      correct: row.correct,
+      accuracy: row.total > 0 ? row.correct / row.total : 0,
+      avg_time: row.avg_time_ms,
+    };
+  }
+
+  // Determine final ability from the most recent completed session
+  const lastCompleted = sessionHistory.find(s => s.status === 'completed');
+  const finalTheta = lastCompleted ? (lastCompleted.final_ability || 0) : 0;
+
+  const { level, description } = abilityToLevel(finalTheta);
+  const recommendations = generateRecommendations(finalTheta, categoryStats);
+
+  res.json({
+    student: {
+      id: student.id,
+      username: student.username,
+      name: student.name,
+      grade: student.grade,
+      country: student.country,
+      state: student.state,
+      school: student.school,
+      group_id: student.group_id,
+    },
+    ability_level: level,
+    ability_description: description,
+    final_ability: finalTheta,
+    sessions: sessionHistory,
+    category_stats: categoryStats,
+    recommendations,
+  });
 });
 
 // ── Actividades ───────────────────────────────────────────────────────────────

@@ -284,6 +284,10 @@ export default function GroupDetail() {
                         </td>
                         <td className="text-center py-3">
                           <div className="flex justify-center gap-2">
+                            <Link to={`/teacher/students/${s.id}`}
+                              className="text-xs text-blue-600 hover:underline">
+                              Ver perfil
+                            </Link>
                             <button onClick={() => handleReset(s.id, s.username)}
                               className="text-xs text-amber-600 hover:underline">
                               Resetear pwd
