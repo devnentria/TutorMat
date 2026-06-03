@@ -1,0 +1,60 @@
+Encuentre los valores de las funciones trigonométricas sen, cos y tan para el ángulo \(\theta\).
+A) \begin{itemize} \item \(\sin \theta = \frac{4}{5}\) \item \(\cos \theta = \frac{3}{5}\) \item \(\tan \theta = \frac{4}{3}\) \end{itemize}
+B) \begin{itemize} \item \(\sin \theta = \frac{3}{5}\) \item \(\cos \theta = \frac{4}{5}\) \item \(\tan \theta = \frac{4}{5}\) \end{itemize}
+C) \begin{itemize} \item \(\sin \theta = \frac{3}{4}\) \item \(\cos \theta = \frac{5}{4}\) \item \(\tan \theta = \frac{5}{3}\) \end{itemize}
+D) \begin{itemize} \item \(\sin \theta = \frac{4}{5}\) \item \(\cos \theta = \frac{3}{5}\) \item \(\tan \theta = \frac{5}{4}\) \end{itemize}
+ANSWER: A
+Encuentre los valores de las funciones trigonométricas sen, cos y tan para el ángulo \(\theta\).
+A) \begin{itemize} \item \(\sin \theta = \frac{8}{17}\) \item \(\cos \theta = \frac{15}{17}\) \item \(\tan \theta = \frac{8}{15}\) \end{itemize}
+B) \begin{itemize} \item \(\sin \theta = \frac{15}{17}\) \item \(\cos \theta = \frac{8}{17}\) \item \(\tan \theta = \frac{15}{8}\) \end{itemize}
+C) \begin{itemize} \item \(\sin \theta = \frac{8}{15}\) \item \(\cos \theta = \frac{15}{8}\) \item \(\tan \theta = \frac{17}{15}\) \end{itemize}
+D) \begin{itemize} \item \(\sin \theta = \frac{17}{8}\) \item \(\cos \theta = \frac{15}{17}\) \item \(\tan \theta = \frac{8}{17}\) \end{itemize}
+ANSWER: A
+Encuentre los valores de las funciones trigonométricas sen, cos y tan para el ángulo \(\theta\).
+A) \begin{itemize} \item \(\sin \theta = \frac{2}{5}\) \item \(\cos \theta = \frac{\sqrt{21}}{5}\) \item \(\tan \theta = \frac{2}{\sqrt{21}}\) \end{itemize}
+B) \begin{itemize} \item \(\sin \theta = \frac{\sqrt{21}}{5}\) \item \(\cos \theta = \frac{2}{5}\) \item \(\tan \theta = \frac{\sqrt{21}}{2}\) \end{itemize}
+C) \begin{itemize} \item \(\sin \theta = \frac{2}{\sqrt{21}}\) \item \(\cos \theta = \frac{5}{2}\) \item \(\tan \theta = \frac{5}{\sqrt{21}}\) \end{itemize}
+D) \begin{itemize} \item \(\sin \theta = \frac{5}{2}\) \item \(\cos \theta = \frac{2}{5}\) \item \(\tan \theta = \frac{5}{\sqrt{21}}\) \end{itemize}
+ANSWER: A
+Encuentre los valores de las funciones trigonométricas sen, cos y tan para el ángulo \(\theta\).
+A) \begin{itemize} \item \(\sin \theta = \frac{\sqrt{8}}{3}\) \item \(\cos \theta = \frac{1}{3}\) \item \(\tan \theta = \sqrt{8}\) \end{itemize}
+B) \begin{itemize} \item \(\sin \theta = \frac{1}{3}\) \item \(\cos \theta = \frac{\sqrt{8}}{3}\) \item \(\tan \theta = \frac{1}{\sqrt{8}}\) \end{itemize}
+C) \begin{itemize} \item \(\sin \theta = \sqrt{8}\) \item \(\cos \theta = 3\) \item \(\tan \theta = \frac{\sqrt{8}}{3}\) \end{itemize}
+D) \begin{itemize} \item \(\sin \theta = \frac{\sqrt{8}}{3}\) \item \(\cos \theta = \frac{1}{3}\) \item \(\tan \theta = \frac{3}{\sqrt{8}}\) \end{itemize}
+ANSWER: A
+Encuentre los valores exactos de \(x\) y \(y\)
+A) \(x=8\) y \(y=4\sqrt{3}\)
+B) \(x=4\) y \(y=2\sqrt{3}\)
+C) \(x=1\) y \(y=\sqrt{3}\)
+D) \(x=2\sqrt{9}\) y \(y=12\)
+ANSWER: A
+Encuentre los valores exactos de \(x\) y \(y\)
+A) \(x=2\sqrt{3}, y=\sqrt{3}\) 
+B) \(x=3\sqrt{2}, y=\sqrt{2}\) 
+C) \(x=2\sqrt{12}, y=\sqrt{12}\) 
+D) \(x=2\sqrt{9}, y=\sqrt{9}\) 
+ANSWER: A
+Encuentre los valores exactos de \(x\) y \(y\)
+A) \(x=7\sqrt{2}, y=7\) 
+B) \(x=2\sqrt{7}, y=\sqrt{7}\) 
+C) \(x=7, y=2\sqrt{7}\) 
+D) \(x=2, y=\sqrt{7}\) 
+ANSWER: A
+Encuentre los valores exactos de \(x\) y \(y\)
+A) \(x=5, y=5\sqrt{3}\) 
+B) \(x=3\sqrt{5}, y=3\) 
+C) \(x=3, y=3\sqrt{9}\) 
+D) \(x=3\sqrt{3}, y=5\) 
+ANSWER: A
+Encuentre los valores exactos de \(x\) y \(y\)
+A) \(x=4\sqrt{3}, y=4\) 
+B) \(x=3\sqrt{4}, y=3\) 
+C) \(x=3\sqrt{4}, y=\sqrt{4}\) 
+D) \(x=3\sqrt{3}, y=4\) 
+ANSWER: A
+Encuentre los valores exactos de \(x\) y \(y\)
+A) \(x=2\sqrt{2}, y=2\sqrt{2}\) 
+B) \(x=4\sqrt{4}, y=2\) 
+C) \(x=3\sqrt{4}, y=\sqrt{4}\) 
+D) \(x=2, y=4\) 
+ANSWER: A

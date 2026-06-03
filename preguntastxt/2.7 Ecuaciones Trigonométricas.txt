@@ -1,0 +1,42 @@
+Hallar las soluciones de la ecuación $$ 1+8 \sen^{3} x = 0 $$ en el intervalo \( [0, 2\pi ) \).
+A) \( \ frac{7\pi }{6},\frac{11\pi }{6} \)
+B) \( \frac{\pi }{3},\frac{2\pi }{3},\frac{4\pi }{3},\frac{5\pi }{3} \)
+C) \( \frac{7\pi }{6},\frac{4\pi }{3} \)
+D) \( \frac{\pi }{2},\frac{3\pi }{2} \)
+ANSWER: A
+Hallar las soluciones de la ecuación $$ 2 \cos^{2} t + 3 cos t = -1 $$ que están en el intervalo \([0,2\pi ) \)
+A) \( \frac{2\Pi }{3},\Pi,\frac{4\Pi }{3} \) 
+B) \( \frac{\pi }{4},\frac{\Pi }{2},\frac{3\Pi }{4} \)
+C) \( \frac{\pi }{3},\frac{\pi }{3},\pi \)
+D) \( \frac{\Pi }{6},\frac{\Pi }{3},\frac{\Pi }{2} \)
+ANSWER: A
+Hallar las soluciones de la ecuación $$ 2 sen^{2} u = 1-sen u $$ que están en el intervalo \( [0,2\Pi ) \)
+A) \( \frac{\Pi }{6},\frac{5\Pi }{6},\frac{3\Pi }{2} \)
+B) \( \frac{\Pi }{6},\frac{\Pi }{2},\frac{3\Pi }{2},\frac{7\Pi }{6} \)
+C) \( \frac{\Pi }{6},\frac{\Pi }{3},\frac{2\Pi }{3},\frac{5\Pi }{6} \)
+D) \( \frac{\Pi }{4},\frac{\Pi }{2},\frac{3\Pi }{4},\Pi \)
+ANSWER: A
+Hallar las soluciones de la ecuación $$ 2- 8 \cos^{2} t = 0 $$ que están en el intervalo \( [0, 2\Pi) \)
+A) \( \frac{\Pi }{3},\frac{2\Pi }{3},\frac{4\Pi }{3},\frac{5\Pi }{3} \)
+B) \( \frac{\Pi }{6},\frac{5\Pi }{6},\frac{7\Pi }{6},\frac{11\Pi }{6} \)
+C) \( \frac{\Pi }{4},\frac{3\Pi }{4},\frac{5\Pi }{4},\frac{7\Pi }{4} \) 
+D) \( \frac{\Pi }{2},\Pi,\frac{3\Pi }{},2\Pi \)
+ANSWER: A
+Hallar las soluciones de la ecuación $$ cot ^{2} \theta -cot \theta = 0 $$ que están en el intervalo \( [0, 2\Pi ) \)
+A) \( \frac{\Pi }{4},\Pi ,\frac{5\Pi }{4} \)
+B) \( \frac{\Pi }{6},\frac{\Pi }{4},\frac{\Pi }{3},\frac{\Pi }{2} \)
+C) \( \frac{\Pi }{4},\frac{\Pi }{2},\frac{3\Pi }{4} \)
+D) \( \frac{\Pi }{3},\frac{\Pi }{2},\frac{2\Pi }{3},\frac{\Pi }{4} \)
+ANSWER: A
+Hallar las soluciones de la ecuación $$ sec^{2}x cosx = cosx $$ que están en el intervalo \( [0,\, 2\Pi )\)
+A) \( 0,\frac{\Pi }{2},\Pi,\frac{3\Pi }{2} \)
+B) \( \frac{\Pi }{6},\frac{5\Pi }{6},\frac{7\Pi }{6},\frac{11\Pi }{6} \)
+C) \( \frac{\Pi }{4},\frac{3\Pi }{4},\frac{5\Pi }{4},\frac{7\Pi }{4} \)
+D) \( 0,\Pi \)
+ANSWER: A
+Hallar las soluciones de la ecuación $$cos ( 2x - \frac{\Pi}{4} )=0$$ que están en el intervalo \( [0,\, 2\Pi )\)
+A) \( \frac{3\Pi }{8},\frac{7\Pi }{8},\frac{11\Pi }{8},\frac{15\Pi }{8} \) 
+B) \( \frac{\Pi }{4},\frac{\Pi }{2},\frac{3\Pi }{4},\Pi \)
+C) \(\frac{\Pi }{8},\frac{3\Pi }{8},\frac{5\Pi }{8},\frac{7\Pi }{8} \)
+D) \( \frac{\Pi }{6},\frac{\Pi }{3},\frac{2\Pi }{3},\frac{5\Pi }{6} \)
+ANSWER: A

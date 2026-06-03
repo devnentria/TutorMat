@@ -1,0 +1,34 @@
+Un objeto oscila sobre un resorte, y su posición vertical en función del tiempo está dada por la función h(t) = 5sin(2t), donde h(t) representa la altura en metros y t es el tiempo en segundos. Determina la amplitud y el período de la oscilación.
+A) Amplitud = 2 metros, Período = 5 segundos
+B) Amplitud = 5 metros, Período = π segundos
+C) Amplitud = 5 metros, Período = 2π segundos
+D) Amplitud = 2 metros, Período = π segundos
+ANSWER: B
+
+Una rueda de la fortuna tiene una altura máxima de 30 metros y completa una vuelta cada 45 segundos. Describe una función que modele la altura de un pasajero en función del tiempo mientras la rueda gira.
+A) h(t) = 15 + 15sin(2πt/45)
+B) h(t) = 30sin(2πt/45)
+C) h(t) = 15 + 15cos(2πt/45)
+D) h(t) = 30cos(2πt/45)
+ANSWER: C
+
+Una partícula en movimiento describe una trayectoria senoidal en línea recta. La ecuación de su posición en función del tiempo es x(t) = 10cos(3t), donde x(t) es la posición en metros y t es el tiempo en segundos. Encuentra la amplitud y el período del movimiento.
+A) Amplitud = 10 metros, Período = 3 segundos
+B) Amplitud = 3 metros, Período = 10 segundos
+C) Amplitud = 10 metros, Período = 2π/3 segundos
+D) Amplitud = 10 metros, Período = π/3 segundos
+ANSWER: C
+
+Un faro emite una señal luminosa que oscila según la función y(t) = 2cos(4t), donde y(t) representa la intensidad luminosa y t es el tiempo en segundos. Determina la intensidad máxima y mínima de la señal.
+A) Máxima = 2, Mínima = -2
+B) Máxima = 4, Mínima = 0
+C) Máxima = 2, Mínima = 0
+D) Máxima = 4, Mínima = -4
+ANSWER: A
+
+Un proyectil es lanzado al aire con una velocidad inicial de 30 m/s y un ángulo de 45 grados respecto al suelo. Describe una función que modele la altura del proyectil en función del tiempo.
+A) h(t) = 30t - 4.9t²
+B) h(t) = 21.2t - 4.9t²
+C) h(t) = 15√2t - 4.9t²
+D) h(t) = 30sin(45°)t - 4.9t²
+ANSWER: B

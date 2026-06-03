@@ -1,0 +1,60 @@
+Calcule las soluciones de la ecuación en el intervalo \([0°,360°)\). $$\cos(3x) + \sin(2x) = 0$$
+A) \(x = 18°, 162°, 198°, 342°\)
+B) \(x = 30°, 150°, 210°, 330°\)
+C) \(x = 45°, 135°, 225°, 315°\)
+D) \(x = 60°, 120°, 240°, 300°\)
+ANSWER: A
+Calcule las soluciones de la ecuación en el intervalo \([0°,360°)\). $$2\sin(3x) = \cos(x)$$
+A) \(x = 10°, 50°, 130°, 170°, 190°, 230°, 310°, 350°\)
+B) \(x = 20°, 60°, 140°, 200°, 220°, 280°, 340°\)
+C) \(x = 30°, 90°, 150°, 210°, 270°, 330°\)
+D) \(x = 40°, 100°, 160°, 220°, 280°, 340°\)
+ANSWER: A
+Calcule las soluciones de la ecuación en el intervalo \([0°,360°)\). $$\tan(x) \sin(x) = 1$$
+A) \(x = 45°, 225°\)
+B) \(x = 30°, 210°\)
+C) \(x = 60°, 240°\)
+D) \(x = 90°, 270°\)
+ANSWER: A
+Calcule las soluciones de la ecuación en el intervalo \([0°,360°)\). $$\sin(2x) = \cos(3x)$$
+A) \(x = 10°, 70°, 130°, 190°, 250°, 310°\)
+B) \(x = 20°, 80°, 140°, 200°, 260°, 320°\)
+C) \(x = 30°, 90°, 150°, 210°, 270°, 330°\)
+D) \(x = 40°, 100°, 160°, 220°, 280°, 340°\)
+ANSWER: A
+Calcule las soluciones de la ecuación en el intervalo \([0°,360°)\). $$3\sin^2(x) - \cos^2(x) = 1$$
+A) \(x = 30°, 150°, 210°, 330°\)
+B) \(x = 45°, 135°, 225°, 315°\)
+C) \(x = 60°, 120°, 240°, 300°\)
+D) \(x = 90°, 270°\)
+ANSWER: A
+Calcule las soluciones de la ecuación en el intervalo \([0°,360°)\). $$4\sin^2(x) - 3\cos(x) = 2$$
+A) A. \(x = 36°, 144°, 216°, 324°\)
+B) \(x = 30°, 150°, 210°, 330°\)
+C) \(x = 45°, 135°, 225°, 315°\)
+D) \(x = 60°, 120°, 240°, 300°\)
+ANSWER: A
+Calcule, a los 10' más cercanos, las soluciones de la ecuación en el intervalo \([0°,360°)\). $$\sen^2t-4\sent+1=0$$
+A) 16^\circ, 164^\circ
+B) 15^\circ, 165^\circ
+C) 17^\circ, 163^\circ
+D) 14^\circ, 166^\circ
+ANSWER: A
+Calcule, a los 10' más cercanos, las soluciones de la ecuación en el intervalo \([0°,360°)\). $$\cos^2t-4\cost+2=0$$
+A) 54^\circ, 306^\circ
+B) 53^\circ, 307^\circ
+C) 55^\circ, 305^\circ
+D) 56^\circ, 304^\circ
+ANSWER: A
+Calcule, a los 10' más cercanos, las soluciones de la ecuación en el intervalo \([0°,360°)\). $$\tan^2t+3\tant+2=0$$
+A) 135^\circ, 315^\circ, 117^\circ, 297^\circ
+B) 130^\circ, 320^\circ, 110^\circ, 290^\circ
+C) 140^\circ, 310^\circ, 120^\circ, 300^\circ
+D) 125^\circ, 325^\circ, 115^\circ, 295^\circ
+ANSWER: A
+Calcule, a los 10' más cercanos, las soluciones de la ecuación en el intervalo \([0°,360°)\). $$2\tan^2t-3\tant-1=0$$
+A) 51^\circ, 231^\circ, 169^\circ, 349^\circ \\
+B) 52^\circ, 232^\circ, 170^\circ, 350^\circ \\
+C) 50^\circ, 230^\circ, 168^\circ, 348^\circ \\
+D) 49^\circ, 229^\circ, 167^\circ, 347^\circ
+ANSWER: A

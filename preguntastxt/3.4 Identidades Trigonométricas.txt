@@ -1,0 +1,48 @@
+Use identidades fundamentales para escribir la primera expresión en términos de la segunda, para cualquier ángulo agudo de \( \theta\). $$ cot \theta, sen \theta $$
+A) \( \frac{\sqrt{1-sen^{2}\theta }}{sen \theta } \) 
+B) \( \frac{sen \theta}{\sqrt{1-sen^{2}\theta }} \)
+C) \( sen\, \theta \sqrt{1-sen^{2}\theta } \)
+D) \( sen^{2}\theta -1 $$
+ANSWER: A
+Use identidades fundamentales para escribir la primera expresión en términos de la segunda, para cualquier ángulo agudo de \( \theta\), $$ tan \theta, cos \theta $$
+A) \( \frac{\sqrt{1-cos^{2}\theta }}{cos \theta } \) 
+B) \( \frac{cos \theta}{\sqrt{1-cos^{2}\theta }} \)
+C) \( cos \theta \sqrt{1-cos^{2}\theta } \)
+D) \( 1-cos^{2}\theta \)
+ANSWER: A
+Use identidades fundamentales para escribir la primera expresión en términos de la segunda, para cualquier ángulo agudo de \( \theta\), $$ sec \theta, sen \theta $$
+A) \( \frac{1}{\sqrt{1-sen^{2}\theta }} \) 
+B) \( \sqrt{1-sen^{2}\theta} \)
+C) \( \frac{1}{sen\theta } \)
+D) \( \frac{sen \theta}{\sqrt{1-sen^{2}\theta }} \)
+ANSWER: A
+Use identidades fundamentales para escribir la primera expresión en términos de la segunda, para cualquier ángulo agudo de \( \theta\), $$ csc \theta, cos \theta $$
+A) \( \frac{1}{\sqrt{1-cos^{2}\theta }} \) 
+B) \( \frac{cos \theta}{\sqrt{1-cos^{2}\theta }} \)
+C) \( \frac{1 }}{cos \theta } \)
+D) \( \sqrt{1-cos^{2}\theta} \)
+ANSWER: A
+Use identidades fundamentales para escribir la primera expresión en términos de la segunda, para cualquier ángulo agudo de \( \theta\), $$ sen \theta, sec \theta $$
+A) \( \sqrt{1-\frac{1}{sec^{2}\theta}} \)
+B) \( \frac{1}{sec\theta }} \)
+C) \( \frac{ sec \theta}}{\sqrt{sec^{2}\theta -1} \)
+D) \( \frac{\sqrt{sec^{^{2}}\theta -1}}{sec \theta } \)
+ANSWER: A
+Use identidades fundamentales para escribir la primera expresión en términos de la segunda, para cualquier ángulo agudo de \( \theta\), $$ cos \theta, cot \theta $$
+A) \( \frac{cot \theta}}{\sqrt{1+cot^{2}\theta } \)
+B) \( \frac{1}{\sqrt{1+cot^{2}\theta }} \)
+C) \( \sqrt{1-cot^{2}\theta}} \)
+D) \( \frac{cot^{2}\theta }}{1+cot^{2}\theta} \)
+ANSWER: A
+Use identidades fundamentales para escribir la primera expresión en términos de la segunda, para cualquier ángulo agudo de \( \theta\), $$ sec \theta, sen \theta $$
+A) \( \frac{1}{\sqrt{1-sen^{2}\theta }} \) 
+B) \( \sqrt{1-sen^{2}\theta} \)
+C) \( \frac{1}{sen\theta } \)
+D) \( \frac{sen \theta}{\sqrt{1-sen^{2}\theta }} \)
+ANSWER: A
+Use identidades fundamentales para escribir la primera expresión en términos de la segunda, para cualquier ángulo agudo de \( \theta\), $$ csc \theta, cos \theta $$
+A) \( \frac{1}{\sqrt{1-cos^{2}\theta }} \)
+B) \( \frac{cos \theta}{\sqrt{1-cos^{2}\theta }} \)
+C) \(\frac{1 }}{cos \theta } \)
+D) \( \sqrt{1-cos^{2}\theta} \)
+ANSWER: A

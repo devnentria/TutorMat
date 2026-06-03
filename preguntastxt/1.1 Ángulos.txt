@@ -1,0 +1,96 @@
+Encuentra la medida exacta de -60° grados en radianes
+A) La medida exacta de -60 grados en radianes es -2π/3 radianes.
+B) -60 grados en radianes es igual a -π radianes.
+C) -60 grados equivalen a π/3 radianes en la medida exacta.
+D) -π/3 radianes es la medida exacta de -60 grados.
+ANSWER: D
+Encuentra la medida exacta de 120° grados en radianes
+A) La medida exacta de 120 grados en radianes es π radianes.
+B) 120 grados en radianes es igual a -2π/3 radianes.
+C) 120 grados equivalen a π/3 radianes en la medida exacta.
+D) 2π/3 radianes es la medida exacta de 120 grados.
+ANSWER: D
+Encuentra la medida exacta de -135° grados en radianes
+A) La medida exacta de -135 grados en radianes es 3π/4 radianes.
+B) -135 grados en radianes es igual a -π/4 radianes.
+C) -135 grados equivalen a π radianes en la medida exacta.
+D) -3π/4 radianes es la medida exacta de -135 grados
+ANSWER: D
+Encuentra la medida exacta de 150° grados en radianes.
+A) La medida exacta de 150 grados en radianes es π/6 radianes.
+B) 150 grados en radianes es igual a π radianes.
+C) 150 grados equivalen a 4π/6 radianes en la medida exacta.
+D) 5π/6 radianes es la medida exacta de 150 grados.
+ANSWER: D
+Encuentra la medida exacta de 225° grados en radianes.
+A) La medida exacta de 225 grados en radianes es 4π/4 radianes.
+B) 225 grados en radianes es igual a 3π/4 radianes.
+C) 225 grados equivalen a π radianes en la medida exacta.
+D) 5π/4 radianes es la medida exacta de 225 grados.
+ANSWER: D
+Encuentra la medida exacta del ángulo $$\frac{-5\pi}{2}$$ en grados.
+A) $$-90^\circ$$
+B) $$-180^\circ$$
+C) $$-240$$^\circ$$
+D) $$-300^\circ$$
+ANSWER: A
+Encuentra la medida exacta del ángulo $$\frac{-9\pi}{2}$$ en grados.
+A) $$-90^\circ$$
+B) $$-180^\circ$$
+C) $$-240^\circ$$
+D) $$-300^\circ$$
+ANSWER: A
+Encuentra la medida exacta del ángulo $$\frac{11\pi}{4}$$ en grados.
+A) $$90^\circ$$
+B) $$135^\circ$$
+C) $$240^\circ$$
+D) $$337.5^\circ$$
+ANSWER: B
+Encuentra la medida exacta del ángulo $$\frac{11\pi}{6}$$  en grados.
+A) $$90^\circ$$
+B) $$180^\circ$$
+C) $$270^\circ$$
+D) $$330^\circ$$
+ANSWER: D
+Encuentra la medida exacta del ángulo $$\frac{13\pi}{6}$$ en grados.
+A) $$90^\circ$$
+B) $$180^\circ$$
+C) $$270^\circ$$
+D) $$30^\circ$$
+ANSWER: D
+Encuentra la medida exacta del ángulo $$\frac{2\pi}{3}$$ en grados.
+A) $$90^\circ$$
+B) $$120^\circ$$
+C) $$270^\circ$$
+D) $$360^\circ$$
+ANSWER: B
+Encuentra la medida exacta del ángulo $$\frac{3\pi}{4}$$ en grados.
+A) $$135^\circ$$
+B) $$120^\circ$$
+C) $$240^\circ$$
+D) $$320^\circ$$
+ANSWER: A
+Encuentra la medida exacta del ángulo $$\frac{4\pi}{6}$$ en grados.
+A) $$90^\cir3$$
+B) $$120^\circ$$
+C) $$135^\circ$$
+D) $$230^\circ$$
+ANSWER: B
+Encuentra la medida exacta del ángulo $$\frac{5\pi}{6}$$ en grados.
+A) $$90^\circ$$
+B) $$150^\circ$$
+C) $$180^\circ$$
+D) $$270^\circ$$
+ANSWER: B
+Encuentra la medida exacta del ángulo \frac{-9\pi}{4} en grados.
+A) 90^\circ
+B) 130^\circ
+C) 240^\circ
+D) 337.5^\circ
+ANSWER: D
+Encuentra la medida exacta del ángulo $$\frac{-7\pi}{2}$$ en grados.
+A) $$-90^\circ$$
+B) $$-130^\circ$$
+C) $$-270^\circ$$
+D) $$-360^\circ$$
+ANSWER: C

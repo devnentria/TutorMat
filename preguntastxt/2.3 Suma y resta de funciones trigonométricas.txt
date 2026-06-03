@@ -1,0 +1,64 @@
+Si \(\alpha\) y \(\beta\) son ángulos agudos tales que \(csc \alpha =\frac{4}{5}\) y \(tan \beta =\frac{8 }{15}\) encuentre \( sen (\alpha + \beta) \)
+A) No tiene solución
+B) \(\frac{45 - 8 \sqrt{7}}{68} \)
+C) \(\frac{45 + 8 \sqrt{7}}{34} \)
+D) \(\frac{45 - 8 \sqrt{7}}{34} \)
+ANSWER: A
+Utilice las condiciones \(sen\alpha = -\frac{5}{13}, tan\alpha > 0 \) para encontrar $$sen (\alpha -\frac{\pi }{3})$$
+A) $$ =\frac{-5 + 12 \sqrt{3}}{26} $$
+B) $$ =\frac{5 - 12 \sqrt{3}}{13} $$
+C) $$ =\frac{5 + 12 \sqrt{3}}{26} $$
+D) $$ =\frac{-5 - 12 \sqrt{3}}{13} $$
+ANSWER: A
+Utilice las condiciones \( cos\alpha = \frac{24}{25},sen \alpha < 0 \) para encontrar el valor exacto de la expresión $$cos (\alpha + \frac{\pi }{6})$$
+A) $$ =\frac{7 + 24 \sqrt{3}}{50} $$
+B) $$ =\frac{- 7 + 24 \sqrt{3}}{50} $$
+C) $$ =\frac{ 5 + 24 \sqrt{3}}{25} $$
+D) $$ =\frac{-5 - 24 \sqrt{3}}{50} $$
+ANSWER: A
+Utilice las condiciones \( sen x = 3 , csc x < 0 \) para encontrar el valor exacto de la expresión $$cos(x -\frac{\pi }{4})$$
+A) No tiene solución
+B) $$ =\frac{7\sqrt{2}}{10} $$
+C) $$ =\frac{\sqrt{2}}{5} $$
+D) $$ =\frac{\sqrt{-2}}{5} $$
+ANSWER: A
+Utilice las condiciones \( tan x = \frac{1}{4},sec x > 0 \) para encontrar el valor exacto de la expresión $$sen (x - \frac{\pi}{4})$$
+A) $$ =\frac{- 3 \sqrt{2}}{2\sqrt{17}} $$
+B) $$ =\frac{ 3 + \sqrt{3}}{2\sqrt{17}} $$
+C) $$ =\frac{ 1 - 4 \sqrt{3}}{17} $$
+D) $$ =\frac{ 4 - \sqrt{3}}{2\sqrt{17}} $$
+ANSWER: A
+Utilice las condiciones \( csc x = \frac{5}{3},cot x > 0\) para encontrar el valor exacto de la expresión $$ tan (x + \frac{\pi }{3})$$
+A) $$ tan=\frac{3 + 4 \sqrt{3}}{4 - 3 \sqrt{3}} $$
+B) $$ tan=\frac{4 - 4 \sqrt{3}}{4 - 3 \sqrt{3}} $$
+C) $$ tan=\frac{-3 + 4 \sqrt{3}}{4 - 3 \sqrt{3}} $$
+D) $$ tan=\frac{3 \sqrt{3}}{4 + 3 \sqrt{3}} $$
+ANSWER: A
+Utilice las condiciones \( sen\alpha = -\frac{5}{13},tan\alpha > 0 \) para encontrar el valor exacto de la expresión $$sen (\alpha -\frac{\pi }{3})$$
+A) $$ =\frac{-5 + 12 \sqrt{3}}{26} $$
+B) $$ =\frac{5 - 12 \sqrt{3}}{13} $$
+C) $$ =\frac{5 + 12 \sqrt{3}}{26} $$
+D) $$ =\frac{-5 - 12 \sqrt{3}}{13} $$
+ANSWER: A
+Utilice las condiciones \( cos\alpha = \frac{24}{25}, sen \alpha < 0 \) para encontrar el valor exacto de la expresión $$ cos (\alpha + \frac{\pi }{6})$$
+A) $$ =\frac{7 + 24 \sqrt{3}}{50} $$
+B) $$ =\frac{-7 + 24 \sqrt{3}}{50} $$
+C) $$ =\frac{ 5 + 24 \sqrt{3}}{25} $$
+D) $$ =\frac{-5 - 24 \sqrt{3}}{50} $$
+ANSWER: A
+Utilice las condiciones \( sen x = 3 , csc x < 0 \) para encontrar el valor exacto de la expresión $$ cos(x -\frac{\pi }{4})$$
+A) No existe solución
+B) $$ =\frac{7\sqrt{2}}{10} $$
+C) $$ =\frac{\sqrt{2}}{5} $$
+D) $$ =\frac{\sqrt{-2}}{5} $$
+ANSWER: A
+Utilice las condiciones \( tan x = \frac{1}{4},sec x > 0\) para encontrar el valor exacto de la expresión $$sen (x - \frac{\pi }{4})$$
+A) $$ =\frac{-3 \sqrt{2}}{2\sqrt{17}} $$
+B) $$ =\frac{ 2 \sqrt{3}}{2\sqrt{17}} $$
+C) $$ =\frac{ 1 - 4 \sqrt{3}}{17} $$
+D) $$ =\frac{ 4 - \sqrt{3}}{2\sqrt{17}} $$
+ANSWER: A
+Verifique la identidad sen (\theta + \frac{\pi}{4} ) = \frac{\sqrt{2}}{2} (sen\theta + cos \theta \)
+A) VERDADERO
+B) FALSO
+ANSWER: A

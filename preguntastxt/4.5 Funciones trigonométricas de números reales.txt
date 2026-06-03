@@ -1,0 +1,60 @@
+El 17 de marzo de 1981, en Tucson, Arizona, la temperatura en grados Fahrenheit pudo calcularse con la ecuación \( T(t)= -12\cos (\frac{\pi }{12}t)+60 \), mientras el porcentaje de humedad relativa podría expresarse con \( H(t)=20\cos (\frac{\pi }{12}t)+60 \), donde \(t\) está en horas y \(t=0\) corresponde a las 6:00 a.m. Determine el porcentaje de humedad relativo registrado al momento de ocurrir la temperatura máxima y la hora de dicho evento.
+A) 40%, 6:00 p.m.
+B) 60%, 12:00 p.m.
+C) 80%, 6:00 a.m.
+D) 50%, 3:00 p.m.
+ANSWER: A
+El diámetro de cada rueda de una bicicleta es de 26 pulgadas. Si usted viaja a una velocidad de 35 millas por hora en esa bicicleta, ¿a cuántas revoluciones por minuto estarán girando las ruedas aproximadamente?
+A) 452 revoluciones por minuto
+B) 425 revoluciones por minuto
+C) 443 revoluciones por minuto
+D) 456 revoluciones por minuto
+ANSWER: A
+El espesor de la capa de ozono se puede calcular con la fórmula \( \ln I_0 - \ln I=k x \sec \theta \) en donde \( I_0 \) es la intensidad de una particular longitud de onda de la luz solar antes de que llegue a la atmósfera, \( I \) es la intensidad de la misma longitud de onda después de pasar por una capa de ozono de \( x \) centímetros de grueso, \( k \) es la constante de absorción de ozono para esa longitud de onda y \( \theta \) es el ángulo agudo que la luz solar hace con la vertical. Supón que para una longitud de onda de \( 3055\times 10^{-8}\) centímetros, con \( k=1.88\), \( I_0/I\) se mide como 1.72 y \( \theta=12°\). Calcula el espesor de la capa de ozono al 0.01 de centímetro más cercano.
+A) 0.28 cm.
+B) 0.34 cm.
+C) 0.25 cm.
+D) 0,31 cm.
+ANSWER: A
+El limpiador del parabrisas de un automóvil mide 18 pulgadas de largo. Si tarda 1 segundo en describir \( \frac{1}{3} \) de revolución, ¿Qué tan rápido se está moviendo el extremo del limpiador?
+A) \( 12\pi \) pulgadas por segundo
+B) \( 6\pi \) pulgadas por segundo
+C) \( 9\pi \) pulgadas por segundo
+D) \( 18\pi \) pulgadas por segundo
+ANSWER: A
+El minutero de un reloj tiene 6 pulgadas de largo. En 15 minutos, ¿qué distancia recorre la punta del minutero?
+A) \(3\pi \) pulgadas
+B) \(6\pi \) pulgadas
+C) \(9\pi \) pulgadas
+D) \(12\pi \) pulgadas
+ANSWER: A
+En las latitudes medias, a veces es posible calcular la distancia entre regiones consecutivas de baja presión. Si \( \phi \) es la latitud en grados, \( R\) es el radio de la Tierra en km y \( v\) es la velocidad horizontal del viento en km/h, entonces la distancia \( d\) en km de un lugar de baja presión al siguiente se puede calcular mediante $$d=2\pi(\frac{vR}{0.52\cos \phi})^{1/3}$$ Si \(v\) y \(R\) son constantes, ¿cómo varía \(d\) a medida que aumenta la latitud?
+A) Aumenta.
+B) Disminuye.
+C) Permanece constante.
+D) Varía de manera impredecible.
+ANSWER: A
+La cantidad de luz solar que ilumina una pared de un edificio puede afectar en forma considerable la eficiencia de energía del edificio. La radiación solar que incide sobre una pared vertical que mira hacia el este está dada por \( R=R_0\cos\theta sen\phi), en donde \(R_0\) es la máxima radiación solar posible, \( \theta\) es el ángulo que hace el Sol con la horizontal y \( \phi \) es la dirección del sol en el cielo, con \( \phi=90°\) cuando está en el este \( \phi=0°\) cuando está en el sur. ¿Cuándo es máxima la radiación solar que incide sobre la pared?
+A) Al amanecer, cuando el sol está justo en el horizonte y directamente al este.
+B) Al mediodía, cuando el sol está en su punto más alto en el cielo.
+C) En la tarde, cuando el sol está al oeste.
+D) Durante la noche, cuando no hay luz solar.
+ANSWER: A
+Las funciones trigonométricas se usan extensamente en el diseño de robots industriales. Suponga que la articulación del hombro de un robot está motorizada de modo que el ángulo \( \theta \) aumenta a una razón constante de \( \pi/12 \) radianes por segundo a partir de un ángulo inicial de \( \theta=0 \). Suponga que la articulación del codo se mantiene siempre recta y que el brazo tiene una longitud constante de 153 centímetros. Encuentre la distancia total que se mueve la mano en 4 segundos.
+A) 160.22 cm.
+B) 240.33 cm.
+C) 320.44 cm.
+D) 961.33 cm.
+ANSWER: A
+Un objeto viaja alrededor de un círculo con radio de 5 centímetros. Si en 20 segundos recorre un ángulo central de \( \frac{1}{3} \) de radián, ¿Cuál es la velocidad angular del objeto?
+A) \(\frac{1}{60} \) radianes/segundo
+B) \(\frac{1}{30} \) radianes/segundo
+C) \(\frac{1}{20} \) radianes/segundo
+D) \(\frac{1}{40} \) radianes/segundo
+ANSWER: A
+Un péndulo oscila un ángulo de 20° cada segundo. Si el péndulo tiene 40 pulgadas de largo, ¿qué distancia recorre su extremo cada segundo?
+A) \(\frac{40\pi}{9} \)
+B) \(\frac{80\pi}{9} \)
+C) \(\frac{20\pi}{9} \)
+D) \(\frac{10\pi}{9} \)
+ANSWER: A

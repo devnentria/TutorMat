@@ -1,0 +1,66 @@
+Encuentra el término faltante que convierte la siguiente ecuación en una identidad. $$cos \theta \cdot(~~)=1$$
+A) \(sec\theta\)
+B) \(cot\theta\)
+C) \(csc\theta\)
+D) \(sen\theta\)
+ANSWER: A
+Encuentra el término faltante que convierte la siguiente ecuación en una identidad. $$tan \theta \cdot(~~)=1$$
+A) \(cot\theta\)
+B) \(sec\theta\)
+C) \(csc\theta\)
+D) \(sen\theta\)
+ANSWER: A
+Encuentra el término faltante que convierte la siguiente ecuación en una identidad. $$sen \theta \cdot(~~)=tan\theta$$
+A) \(sec\theta\)
+B) \(cot\theta\)
+C) \(csc\theta\)
+D) \(sen\theta\)
+ANSWER: A
+Encuentra el término faltante que convierte la siguiente ecuación en una identidad. $$sen \theta \cdot(~~)=cos\theta$$
+A) \(cot\theta\)
+B) \(sec\theta\)
+C) \(csc\theta\)
+D) \(sen\theta\)
+ANSWER: A
+Encuentra el término faltante que convierte la siguiente ecuación en una identidad. $$\frac{1}{sec\theta} \cdot(~~)=cot\theta$$
+A) \(csc\theta\)
+B) \(sec\theta\)
+C) \(cos\theta\)
+D) \(sen\theta\)
+ANSWER: A
+Encuentra el término faltante que convierte la siguiente ecuación en una identidad. $$cot \theta \cdot(~~)=csc\theta$$
+A) \(sec\theta\)
+B) \(cos\theta\)
+C) \(csc\theta\)
+D) \(sen\theta\)
+ANSWER: A
+Encuentra el término faltante que convierte la siguiente ecuación en una identidad. $$(sec^2 \theta-1) \cdot(~~)=sen^2\theta$$
+A) \(cos^2\theta)
+B) \(sec^2\theta\)
+C) \(csc^2\theta\)
+D) \(sen^2\theta\)
+ANSWER: A
+Simplifica la expresión \(\frac{a^2+x^2}{x^2}\) donde \(x=a tan\theta \) y \( a>0 \) en el intervalo \((-\frac{\pi}{2},\frac{\pi}{2})\).
+A) \(\csc^2\theta\)
+B) \(\sec^2\theta\)
+C) \(\tan^2\theta\)
+D) \(\cos^2\theta\)
+ANSWER: A
+Simplifica la expresión \(\frac{x^2}{x^2-a^2}\) donde \(x=a sec\theta \) y \( a>0 \) en el intervalo \((0,\frac{\pi}{2})\).
+A) \(\csc^2\theta\)
+B) \(\sec^2\theta\)
+C) \(\tan^2\theta\)
+D) \(\cos^2\theta\)
+ANSWER: A
+Simplifica la expresión \(\frac{x^2}{\sqrt{x^2-a^2}}\) donde \(x=a sec\theta \) y \( a>0 \) en el intervalo \((0,\frac{\pi}{2})\).
+A) \(a \sec\theta \csc\theta\)
+B) \(a \cos\theta \tan\theta\)
+C) \(a \tan\theta \csc\theta\)
+D) \(a \sin\theta \sec\theta\)
+ANSWER: A
+Simplifica la expresión \(\frac{x^4}{(a^2+x^2)^2}\) donde \(x=a tan\theta \) y \( a>0 \) en el intervalo \((-\frac{\pi}{2},\frac{\pi}{2})\).
+A) \(\sin^4\theta\)
+B) \(\cos^4\theta\)
+C) \(\tan^4\theta\)
+D) \(\sec^4\theta\)
+ANSWER: A

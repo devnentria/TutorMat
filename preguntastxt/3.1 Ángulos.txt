@@ -1,0 +1,36 @@
+Si un arco circular de longitud $$s=10 cm.$$ subtiende el ángulo central $$\theta=4$$ en un círculo, encuentre el radio de la circunferencia.
+A) 2.5 cm.
+B) 2 cm.
+C) 2.4 cm.
+D) 3 cm.
+ANSWER: A
+Si un arco circular de longitud $$s=3 km.$$ subtiende el ángulo central $$\theta=20°$$ en un círculo, encuentre el radio de la circunferencia.
+A) 8.59 km.
+B) 12.34 km.
+C) 18.90 km.
+D) 10.405 km.
+ANSWER: A
+Encuentre la medida en grados del ángulo central subtendido por el arco dado de longitud $$s=7 cm.$$ en una circunferencia de radio $$r=4 cm.$$
+A) θ≈100.3°
+B) θ≈45°
+C) θ≈180°
+D) θ≈31.82°
+ANSWER: A
+Encuentre la medida en grados del ángulo central subtendido por el arco dado de longitud $$s=3 cm.$$ en una circunferencia de radio $$r=20 cm.$$
+A) θ≈8.594°
+B) θ≈9.25°
+C) θ≈4.3°
+D) θ≈10°
+ANSWER: A
+Encuentre la longitud del arco que subtiende el ángulo central $$\theta=50°$$ en un círculo de diámetro $$d=16 m.$$
+A) s≈6.98 m.
+B) s≈15.38 m.
+C) s≈14.35°
+D) s≈12.56°
+ANSWER: A
+Encuentre la longitud del arco que subtiende el ángulo central $$\theta=2.2 radianes$$ en un círculo de diámetro $$d=120 cm.$$
+A) s≈132 cm.
+B) s≈123 cm.
+C) s≈154°
+D) s≈145°
+ANSWER: A

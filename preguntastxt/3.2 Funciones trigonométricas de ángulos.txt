@@ -1,0 +1,60 @@
+Encuentre los valores exactos de las funciones trigonométricas para el ángulo \( \theta \) $$sen \theta= \frac{3}{5}$$
+A) \( \sin \theta = \frac{3}{5} \), \( \cos \theta = \frac{4}{5} \), \( \tan \theta = \frac{3}{4} \), \( \csc \theta = \frac{5}{3} \), \( \sec \theta = \frac{5}{4} \), \( \cot \theta = \frac{4}{3} \)
+B) \( \sin \theta = \frac{4}{5} \), \( \cos \theta = \frac{3}{5} \), \( \tan \theta = \frac{5}{3} \), \( \csc \theta = \frac{3}{4} \), \( \sec \theta = \frac{4}{3} \), \( \cot \theta = \frac{5}{4} \)
+C) \( \sin \theta = \frac{5}{3} \), \( \cos \theta = \frac{3}{4} \), \( \tan \theta = \frac{5}{4} \), \( \csc \theta = \frac{3}{5} \), \( \sec \theta = \frac{4}{5} \), \( \cot \theta = \frac{4}{3} \)
+D) \( \sin \theta = \frac{5}{4} \), \( \cos \theta = \frac{4}{3} \), \( \tan \theta = \frac{4}{5} \), \( \csc \theta = \frac{4}{5} \), \( \sec \theta = \frac{3}{5} \), \( \cot \theta = \frac{3}{4} \)
+ANSWER: A
+Encuentre los valores exactos de las funciones trigonométricas para el ángulo \( \theta \) $$\cos \theta= \frac{8}{17}$$
+A) \( \sin \theta = \frac{15}{17} \), \( \cos \theta = \frac{8}{17} \), \( \tan \theta = \frac{15}{8} \), \( \csc \theta = \frac{17}{15} \), \( \sec \theta = \frac{17}{8} \), \( \cot \theta = \frac{8}{15} \)
+B) \( \sin \theta = \frac{8}{17} \), \( \cos \theta = \frac{15}{17} \), \( \tan \theta = \frac{17}{15} \), \( \csc \theta = \frac{15}{8} \), \( \sec \theta = \frac{8}{15} \), \( \cot \theta = \frac{17}{8} \)
+C) \( \sin \theta = \frac{17}{15} \), \( \cos \theta = \frac{15}{8} \), \( \tan \theta = \frac{17}{8} \), \( \csc \theta = \frac{8}{17} \), \( \sec \theta = \frac{8}{17} \), \( \cot \theta = \frac{15}{17} \)
+D) \( \sin \theta = \frac{17}{8} \), \( \cos \theta = \frac{8}{15} \), \( \tan \theta = \frac{8}{17} \), \( \csc \theta = \frac{8}{15} \), \( \sec \theta = \frac{17}{8} \), \( \cot \theta = \frac{15}{17} \)
+ANSWER: A
+Encuentre los valores exactos de las funciones trigonométricas para el ángulo \( \theta \) $$\tan \theta= \frac{5}{12}$$
+A) \( \sin \theta = \frac{5}{13} \), \( \cos \theta = \frac{12}{13} \), \( \tan \theta = \frac{5}{12} \), \( \csc \theta = \frac{13}{5} \), \( \sec \theta = \frac{13}{12} \), \( \cot \theta = \frac{12}{5} \)
+B) \( \sin \theta = \frac{12}{13} \), \( \cos \theta = \frac{5}{13} \), \( \tan \theta = \frac{13}{5} \), \( \csc \theta = \frac{5}{12} \), \( \sec \theta = \frac{12}{5} \), \( \cot \theta = \frac{13}{12} \)
+C) \( \sin \theta = \frac{13}{5} \), \( \cos \theta = \frac{5}{12} \), \( \tan \theta = \frac{13}{12} \), \( \csc \theta = \frac{5}{13} \), \( \sec \theta = \frac{12}{13} \), \( \cot \theta = \frac{12}{5} \)
+D) \( \sin \theta = \frac{13}{12} \), \( \cos \theta = \frac{12}{5} \), \( \tan \theta = \frac{12}{13} \), \( \csc \theta = \frac{12}{5} \), \( \sec \theta = \frac{5}{12} \), \( \cot \theta = \frac{5}{13} \)
+ANSWER: A
+Encuentre los valores exactos de las funciones trigonométricas para el ángulo \( \theta \) $$\cot \theta= \frac{7}{24}$$
+A) \( \sin \theta = \frac{24}{25} \), \( \cos \theta = \frac{7}{25} \), \( \tan \theta = \frac{24}{7} \), \( \csc \theta = \frac{25}{24} \), \( \sec \theta = \frac{25}{7} \), \( \cot \theta = \frac{7}{24} \)
+B) \( \sin \theta = \frac{7}{24} \), \( \cos \theta = \frac{24}{25} \), \( \tan \theta = \frac{25}{7} \), \( \csc \theta = \frac{24}{7} \), \( \sec \theta = \frac{7}{24} \), \( \cot \theta = \frac{25}{25} \)
+C) \( \sin \theta = \frac{25}{7} \), \( \cos \theta = \frac{25}{24} \), \( \tan \theta = \frac{7}{24} \), \( \csc \theta = \frac{7}{25} \), \( \sec \theta = \frac{24}{25} \), \( \cot \theta = \frac{24}{7} \)
+D) \( \sin \theta = \frac{25}{24} \), \( \cos \theta = \frac{7}{25} \), \( \tan \theta = \frac{24}{7} \), \( \csc \theta = \frac{24}{7} \), \( \sec \theta = \frac{7}{24} \), \( \cot \theta = \frac{7}{24} \)
+ANSWER: A
+Encuentre los valores exactos de las funciones trigonométricas para el ángulo \( \theta \) $$\sec \theta= \frac{6}{5}$$
+A) \( \sin \theta = \frac{5}{\sqrt{61}} \), \( \cos \theta = \frac{6}{\sqrt{61}} \), \( \tan \theta = \frac{5}{6} \), \( \csc \theta = \frac{\sqrt{61}}{5} \), \( \sec \theta = \frac{6}{5} \), \( \cot \theta = \frac{6}{5} \)
+B) \( \sin \theta = \frac{\sqrt{61}}{5} \), \( \cos \theta = \frac{5}{\sqrt{61}} \), \( \tan \theta = \frac{6}{5} \), \( \csc \theta = \frac{5}{6} \), \( \sec \theta = \frac{6}{5} \), \( \cot \theta = \frac{5}{6} \)
+C) \( \sin \theta = \frac{6}{5} \), \( \cos \theta = \frac{5}{6} \), \( \tan \theta = \frac{\sqrt{61}}{5} \), \( \csc \theta = \frac{6}{\sqrt{61}} \), \( \sec \theta = \frac{5}{\sqrt{61}} \), \( \cot \theta = \frac{5}{6} \)
+D) \( \sin \theta = \frac{5}{6} \), \( \cos \theta = \frac{\sqrt{61}}{5} \), \( \tan \theta = \frac{5}{\sqrt{61}} \), \( \csc \theta = \frac{5}{\sqrt{61}} \), \( \sec \theta = \frac{6}{5} \), \( \cot \theta = \frac{\sqrt{61}}{5} \)
+ANSWER: A
+Evalúe las seis funciones trigonométricas del ángulo \(\theta\) si se encuentra en la posición estándar y el lado terminal de \(theta\) contiene el punto \( (6,8) \).
+A) \(sen \theta = \frac{4}{5}, \cos \theta = \frac{3}{5}, \tan \theta = \frac{4}{3}, \cot \theta = \frac{3}{4}, \sec \theta = \frac{5}{3}, \csc \theta = \frac{5}{4}\)
+B) \(sen \theta = \frac{3}{5}, \cos \theta = \frac{4}{5}, \tan \theta = \frac{3}{4}, \cot \theta = \frac{4}{3}, \sec \theta = \frac{5}{4}, \csc \theta = \frac{5}{3}\)
+C) \( sen \theta = \frac{5}{4}, \cos \theta = \frac{5}{3}, \tan \theta = \frac{3}{4}, \cot \theta = \frac{4}{3}, \sec \theta = \frac{4}{5}, \csc \theta = \frac{3}{5}\)
+D) \( sen \theta = \frac{3}{4}, \cos \theta = \frac{4}{3}, \tan \theta = \frac{5}{3}, \cot \theta = \frac{5}{4}, \sec \theta = \frac{3}{5}, \csc \theta = \frac{4}{5}\)
+ANSWER: A
+Evalúe las seis funciones trigonométricas del ángulo \(\theta\) si se encuentra en la posición estándar y el lado terminal de \(theta\) contiene el punto \( (-2,3) \).
+A) \(sen \theta = -\frac{3}{\sqrt{13}}, \cos \theta = -\frac{2}{\sqrt{13}}, \tan \theta = \frac{3}{2}, \cot \theta = \frac{2}{3}, \sec \theta = -\frac{\sqrt{13}}{2}, \csc \theta = -\frac{\sqrt{13}}{3}\)
+B) \(sen \theta = \frac{3}{\sqrt{13}}, \cos \theta = \frac{2}{\sqrt{13}}, \tan \theta = \frac{2}{3}, \cot \theta = \frac{3}{2}, \sec \theta = \frac{\sqrt{13}}{2}, \csc \theta = \frac{\sqrt{13}}{3}\)
+C) \( sen \theta = -\frac{2}{3}, \cos \theta = -\frac{3}{2}, \tan \theta = \frac{3}{\sqrt{13}}, \cot \theta = \frac{2}{\sqrt{13}}, \sec \theta = -\frac{\sqrt{13}}{3}, \csc \theta = -\frac{\sqrt{13}}{2}\)
+D) \( sen \theta = \frac{2}{3}, \cos \theta = \frac{3}{\sqrt{13}}, \tan \theta = \frac{2}{\sqrt{13}}, \cot \theta = \frac{3}{2}, \sec \theta = \frac{\sqrt{13}}{3}, \csc \theta = \frac{\sqrt{13}}{2}\)
+ANSWER: A
+Si \( 2sen \theta-\cos\theta=0\) encuentre los valores posibles de \(cos \theta\).
+A) \( \cos \theta = \frac{2 \sqrt{5}}{5}, \cos \theta = -\frac{2 \sqrt{5}}{5}\)
+B) \(\cos \theta = -\frac{2}{\sqrt{5}}, \cos \theta = \frac{2}{\sqrt{5}}\)
+C) \(\cos \theta = -\sqrt{\frac{2}{5}}, \cos \theta = \sqrt{\frac{2}{5}}\)
+D) \(\cos \theta = -\frac{\sqrt{5}}{2}, \cos \theta = \frac{\sqrt{5}}{2}\)
+ANSWER: A
+Si \( cot \theta=\frac{3}{4}\) encuentre los valores posibles de \(csc \theta\).
+A) \( \csc \theta = \frac{5}{4}\)
+B) \( \csc \theta = -\frac{3}{4}, \csc \theta = \frac{4}{3}\)
+C) \( \csc \theta = -\frac{3}{5}\)
+D) \( \csc \theta = \frac{4}{5}, \csc \theta = -\frac{5}{4}\)
+ANSWER: A
+Si \( sen \theta=-\frac{2}{7}\) encuentre los valores posibles de \(cos \theta\).
+A) \( \cos \theta = -\frac{3\sqrt{5}}{7}, \cos \theta = \frac{3\sqrt{5}}{7}\)
+B) \( \cos \theta = \frac{3\sqrt{5}}{7}, \cos \theta = -\frac{3\sqrt{5}}{7}\)
+C) \cos \theta = -\frac{7}{\sqrt{5}}, \cos \theta = \frac{7}{\sqrt{5}}\)
+D) \cos \theta = \frac{7}{\sqrt{5}}, \cos \theta = -\frac{7}{\sqrt{5}}\)
+ANSWER: A

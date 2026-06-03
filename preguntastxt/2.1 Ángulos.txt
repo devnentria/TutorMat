@@ -1,0 +1,72 @@
+Exprese $$\theta= 1.57°$$ en términos de grados, minutos y segundos, al segundo más cercano. 
+A) 1°34′12′′
+B) 1°34′10′′
+C) 1°33′60′′
+D) 1°33′60′′
+ANSWER: A
+Exprese el ángulo $$\theta=53°46'48''$$ como decimal, al diezmilésimo de grado más cercano.
+A) 53.7800°
+B) 53.7833°
+C) 53.7850°
+D) 53.7834°
+ANSWER: A
+Exprese el ángulo $$\theta=320°7'58''$$ como decimal, al diezmilésimo de grado más cercano.
+A) 320.1328°
+B) 320.1330°
+C) 320.1350°
+D) 320.1327°
+ANSWER: A
+Exprese el ángulo $$\theta=262°15'31"$$ como decimal, al diezmilésimo de grado más cercano.
+A) 262.2586°
+B) 262.2590°
+C) 262.2600°
+D) 262.2580°
+ANSWER: A
+Exprese $$\theta= 3.1°$$ en términos de grados, minutos y segundos, al segundo más cercano. 
+A) 3°6′0′′
+B) 3°5′30′′
+C) 3°5′45′′
+D) 3°6′30′′
+ANSWER: A
+Exprese $$\theta= 6.3°$$ en términos de grados, minutos y segundos, al segundo más cercano. 
+A) 6°18′0′′
+B) 6°10′30′′
+C) 6°18′30′′
+D) 6°17′45′′
+ANSWER: A
+Exprese $$\theta= 4.7°$$ en términos de grados, minutos y segundos, al segundo más cercano. 
+A) 4°42′0′′
+B) 4°42′30′′
+C) 4°43′0′′
+D) 4°41′30′′
+ANSWER: A
+Exprese $$\theta= 63.169°$$ en términos de grados, minutos y segundos, al segundo más cercano. 
+A) 63°10′8′′
+B) 63°10′10′′
+C) 63°10′15′′
+D) 63°10′30′′
+ANSWER: A
+Exprese $$\theta= 12.864°$$ en términos de grados, minutos y segundos, al segundo más cercano. 
+A) 12°51′50′′
+B) 12°51′45′′
+C) 12°51′55′′
+D) 12°52′0′′
+ANSWER: A
+Exprese $$\theta= 310.6215°$$ en términos de grados, minutos y segundos, al segundo más cercano. 
+A) 310°37′17′′
+B) 310°37′15′′
+C) 310°37′20′′
+D) 310°37′30′′
+ANSWER: A
+Exprese $$\theta= 81.7238°$$ en términos de grados, minutos y segundos, al segundo más cercano. 
+A) 81°43′26′′
+B) 81°43′30′′
+C) 81°43′20′′
+D) 81°43′15′
+ANSWER: A
+Exprese el ángulo $$\theta=120°16'$$ como decimal, al diezmilésimo de grado más cercano.
+A) 120.2667
+B) 120.2670
+C) 120.2650
+D) 120.2666
+ANSWER: A

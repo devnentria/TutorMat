@@ -1,0 +1,66 @@
+Simplifique la expresión $$\frac{2-tan(\theta)}{2csc(\theta)-sec(\theta)}$$
+A) \( sen(\theta) \)
+B) \( cos(\theta) \)
+C) \( tan(\theta) \)
+D) \( cot(\theta) \)
+ANSWER: A
+Simplifique la expresión $$\frac{cot^2(\alpha)-4}{cot^2(\alpha)-cot(\alpha)-6}$$
+A) \( \frac{\cot(\alpha) - 2}{\cot(\alpha) - 3} \)
+B) \( \frac{\cot(\alpha) + 2}{\cot(\alpha) - 3} \)
+C) \( \frac{\cot(\alpha) - 2}{\cot(\alpha) + 3} \)
+D) \( \frac{\cot(\alpha) + 2}{\cot(\alpha) + 3} \)
+ANSWER: A
+Simplifique la expresión $$\frac{csc(\theta)+1}{(1/sen^2(\theta))+csc(\theta)}$$
+A) \( sen(\theta) \)
+B) \( cos(\theta) \)
+C) \( sec(\theta) \)
+D) \( csc(\theta) \)
+ANSWER: A
+Simplifique la expresión $$\frac{sen^3(\theta)+cos^3(\theta)}{sen(\theta)+cos(\theta)}$$
+A) \(1-sen(\theta)cos(\theta)\)
+B) \(sen(\theta)cos(\theta)+1\)
+C) \(sen^2(\theta)+cos^2(\theta)\)
+D) \(sen^2(\theta)-cos^2(\theta)\)
+ANSWER: A
+Simplifique la expresión $$\frac{sen(\theta)-cos(\theta)}{sen^3(\theta)-cos^3(\theta)}$$
+A) \( \frac{1}{1+sen(\theta)cos(\theta)} \)
+B) \( \frac{sen(\theta)+cos(\theta)}{1+sen(\theta)cos(\theta)} \)
+C) \( \frac{sen(\theta)+cos(\theta)}{sen(\theta)-cos(\theta)} \)
+D) \( \frac{sen(\theta)+cos(\theta)}{sen^2(\theta)-cos^2(\theta)} \)
+ANSWER: A
+Simplifique la expresión $$\frac{9-tan^2(\theta)}{tan^2(\theta)-5tan(\theta)+6}$$
+A) \( \frac{3 + \tan(\theta)}{2-\tan(\theta) } \)
+B) \( \frac{3 - \tan(\theta)}{\tan(\theta) - 2} \)
+C) \( \frac{\tan(\theta) + 3}{\tan(\theta) - 2} \)
+D) \( \frac{\tan(\theta) - 3}{\tan(\theta) - 2} \)
+ANSWER: A
+Simplifique la expresión $$ 1 + \tan^2(\theta) $$
+A) \(\sec^2(\theta)\)
+B) \(\csc^2(\theta)\)
+C) \(\sin^2(\theta)\)
+D) \(\cos^2(\theta)\)
+ANSWER: A
+Simplifique la expresión $$ \cos^2(\theta) - \sin^2(\theta) $$
+A) \(\cos(2\theta)\)
+B) \(\sin(2\theta)\)
+C) \(\tan(2\theta)\)
+D) \(\sec(2\theta)\)
+ANSWER: A
+Simplifique la expresión $$ \frac{1 - \cos(2\theta)}{2} $$
+A) \(\sin^2(\theta)\)
+B) \(\cos^2(\theta)\)
+C) \(\tan^2(\theta)\)
+D) \(\sec^2(\theta)\)
+ANSWER: A
+Simplifique la expresión $$ \frac{2\sin(\theta)\cos(\theta)}{\cos^2(\theta)} $$
+A) \(2\tan(\theta)\)
+B) \(\sin(2\theta)\)
+C) \(\cos(2\theta)\)
+D) \(\tan^2(\theta)\)
+ANSWER: A
+Simplifique la expresión $$ \frac{\sin^2(\theta) - \cos^2(\theta)}{\cos^2(\theta)} $$
+A) \(\tan^2(\theta) - 1\)
+B) \(\sec^2(\theta) - 1\)
+C) \(1 - \tan^2(\theta)\)
+D) \(\sec^2(\theta) - \tan^2(\theta)\)
+ANSWER: A

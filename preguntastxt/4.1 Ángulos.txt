@@ -1,0 +1,30 @@
+La distancia entre dos puntos A  B en la Tierra se mide a lo largo de una circunferencia cuyo centro es C, el centro de la tierra, y radio igual a la distancia de C a la superficie. Si el diámetro de la Tierra es aproximadamente 8000 millas, calcule la distancia entre A y B si $$\angle ACB=60°$$.
+A) 4188.8 millas
+B) 1884.5 millas
+C) 2145.9 millas
+D) 6144.2 millas
+ANSWER: A
+La distancia entre dos puntos A  B en la Tierra se mide a lo largo de una circunferencia cuyo centro es C, el centro de la tierra, y radio igual a la distancia de C a la superficie. Si el diámetro de la Tierra es aproximadamente 8000 millas, calcule la distancia entre A y B si $$\angle ACB=45°$$.
+A) 3141.6 millas
+B) 4136.1 millas
+C) 6131.4 millas
+D) 1164.3 millas
+ANSWER: A
+Un hexágono está inscrito en un círculo. Si la diferencia entre el área del círculo y el área del hexágono es 24 metros cuadrados, use la fórmula para el área de un sector para aproximar el radio del círculo.
+A) 6.645 m
+B) 44.157 m
+C) 38.219 m
+D) 1.164 m
+ANSWER: A
+Un parabrisas rectangular mide 54 pulgadas por 24 pulgadas. Hay un limpiaparabrisas de 22 pulgadas unido al centro de la base de la ventana. Si el brazo gira 120°, aproxime el porcentaje del área del parabrisas que es limpiado.
+A) 39.11%
+B) 43.56%
+C) 25.75%
+D) 30.45%
+ANSWER: A
+La tierra gira alrededor de su eje una vez cada 23 horas, 56 minutos y 4 segundos. Aproxime el número de grados que gira la Tierra en una hora.
+A) 15.04°
+B) 10.45°
+C) 21.57°
+D) 6.75°
+ANSWER: A

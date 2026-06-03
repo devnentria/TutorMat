@@ -1,0 +1,20 @@
+Un satélite geoestacionario se encuentra en una órbita circular alrededor de la Tierra a una altura de 35.786 km. Si un rayo de luz se refleja en la superficie del satélite y llega a la Tierra, ¿a qué distancia de su punto de origen impactará la luz en la Tierra?
+A) Aproximadamente 2160 km
+B) Aproximadamente 3600 km
+C) Aproximadamente 5400 km
+D) Aproximadamente 7200 km
+ANSWER: C
+
+Un arquitecto está diseñando un edificio que tendrá forma de pirámide cuadrada y un volumen de 216 m^3. Si la base de la pirámide mide 6 m de lado, ¿cuál será la altura del edificio?
+A) 12 metros
+B) 15 metros
+C) 18 metros
+D) 21 metros
+ANSWER: C
+
+Una persona en una bicicleta está subiendo una colina de 15 grados de inclinación y está viajando a una velocidad constante de 10 km/h. Si la masa de la bicicleta y la persona es de 75 kg, ¿cuánto trabajo realiza la persona en subir la colina durante 30 minutos?
+A) Aproximadamente 905 kJ
+B) Aproximadamente 1350 kJ
+C) Aproximadamente 1810 kJ
+D) Aproximadamente 2250 kJ
+ANSWER: C

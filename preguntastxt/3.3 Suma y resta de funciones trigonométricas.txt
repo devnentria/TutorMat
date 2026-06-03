@@ -1,0 +1,48 @@
+Use una fórmula de suma o resta para hallar las soluciones de la ecuación que estén en el intervalo \([0,\pi)\). $$sen4tcost=sentcos4t$$
+A) \(t=0, \frac{\pi}{3}, \frac{2\pi}{3} \)
+B) \(t = 0, \frac{\pi}{4}, \frac{\pi}{2}, \frac{3\pi}{4}, \pi \)
+C) \(t = \frac{\pi}{6}, \frac{\pi}{3}, \frac{\pi}{2}, \frac{2\pi}{3}, \frac{5\pi}{6}, \pi \)
+D) \(t = \frac{\pi}{4}, \frac{\pi}{2}, \frac{3\pi}{4}, \pi \)
+ANSWER: A
+Use una fórmula de suma o resta para hallar las soluciones de la ecuación que estén en el intervalo \([0,\pi)\). $$cos5tcos3t=\frac{1}{2}+sen(5t)sen3t$$
+A) \(t = \frac{\pi}{24}, \frac{7\pi}{24}, \frac{\pi}{4}, \frac{3\pi}{8}, \frac{5\pi}{24} \)
+B) \(t = 0, \frac{\pi}{4}, \frac{\pi}{2}, \frac{3\pi}{4}, \pi \)
+C) \(t = \frac{\pi}{32}, \frac{7\pi}{2}, \frac{2\pi}{3}, \frac{5\pi}{16}, \pi \)
+D) \(t = \frac{\pi}{4}, \pi \)
+ANSWER: A
+Use una fórmula de suma o resta para hallar las soluciones de la ecuación que estén en el intervalo \([0,\pi)\). $$cos5tcos2t=-sen5tsen2t$$
+A) \(t=\frac{\pi}{6}, \frac{\pi}{2}, \frac{5\pi}{6}\)
+B) \(t = 0, \frac{\pi}{4}, \frac{\pi}{2}, \frac{3\pi}{4}, \pi \)
+C) \(t = \frac{\pi}{3}, \frac{\pi}{2}, \frac{2\pi}{3}, \frac{5\pi}{6}, \pi \)
+D) \(t = \frac{\pi}{4}, \pi \)
+ANSWER: A
+Use una fórmula de suma o resta para hallar las soluciones de la ecuación que estén en el intervalo \([0,\pi)\). $$sen3tcost+cos3tsent=-1/2$$
+A) \(t=\frac{7\pi}{24}, \frac{11\pi}{24}, \frac{19\pi}{24}, \frac{23\pi}{24}\)
+B) \(t = \frac{\pi}{2}, \frac{3\pi}{4}, \pi \)
+C) \(t = \frac{\pi}{32}, \frac{3\pi}{32}, \frac{2\pi}{32}, \frac{5\pi}{6}, \pi \)
+D) \(t = \frac{\pi}{6}\)
+ANSWER: A
+Use una fórmula de suma o resta para hallar las soluciones de la ecuación que estén en el intervalo \([0,\pi)\). $$tan2t+tant=1-tan2ttant$$
+A) \(t=\frac{\pi}{12}, \frac{5\pi}{12}, \frac{3\pi}{4}\)
+B) \(t=\frac{\pi}{6}, \frac{5\pi}{6}\)
+C) \(t=\frac{\pi}{4}\)
+D) \(t = \frac{\pi}{3}\)
+ANSWER: A
+Use una fórmula de suma o resta para hallar las soluciones de la ecuación que estén en el intervalo \([0,\pi)\). $$tan4t-tan2t=1+tan4ttan2t$$
+A) \(t=\frac{\pi}{8}, \frac{5\pi}{8}\)
+B) \(t=\frac{\pi}{6}\)
+C) \(t=\frac{\pi}{4}\)
+D) \(t = \frac{\pi}{3}\)
+ANSWER: A
+Use una fórmula de suma o resta para hallar las soluciones de la ecuación que estén en el intervalo \([0,\pi)\). $$sent-cost=0$$
+A) \(x = \frac{\pi}{4}\)
+B) \(x = \frac{\pi}{2}\)
+C) \(x = \frac{3\pi}{4}\)
+D) \(x = \pi\)
+ANSWER: A
+Use una fórmula de suma o resta para hallar las soluciones de la ecuación que estén en el intervalo \([0,2\pi)\). $$\cos(x) - \sin(x) = \sqrt{2}$$
+A) \(x = \frac{3\pi}{4}, \frac{7\pi}{4}\)
+B) \(x = \frac{3\pi}{2}\)
+C) \(x = \frac{3\pi}{2}\)
+D) \(x = \frac{5\pi}{4}\)
+ANSWER: A

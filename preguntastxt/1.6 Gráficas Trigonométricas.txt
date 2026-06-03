@@ -1,0 +1,42 @@
+Encuentre la amplitud y el periodo de \( y=-3\cosx \).
+A) Amplitud: 3 , Periodo: \( 2\pi \)
+B) Amplitud: \( 2\pi \), Periodo: 3
+C) Amplitud: 3 , Periodo: \(\frac{1}{2\pi}\)
+D) Amplitud: \( 2\pi \), Periodo: \( 3\pi \)
+ANSWER: A
+Encuentre la amplitud y el periodo de \( y=2 sen(\frac{1}{4}x \).
+A) Amplitud: 2, Periodo: \( 8\pi \)
+B) Amplitud: 4, Periodo: \( 2\pi \)
+C) Amplitud: \( \frac{1}{4} \), Periodo: \( 4\pi \)
+D) Amplitud: \( 8\pi \), Periodo: \( \frac{\pi}{2} \)
+ANSWER: A
+Encuentre la amplitud y el periodo de \( y=2\cos\frac{1}{3}x \).
+A) Amplitud: 2, Periodo: \(6\pi\)
+B) Amplitud: 6, Periodo: \(2\pi\)
+C) Amplitud: \(\frac{1}{3}\), Periodo: \(2\pi\)
+D) Amplitud: 2, Periodo:\(\pi\)
+ANSWER: A
+Encuentre la amplitud y el periodo de \( y=4 senx \).
+A) Amplitud: 4, Periodo: \(2\pi\)
+B) Amplitud: 2, Periodo: \(\pi\)
+C) Amplitud: 1, Periodo: \(4\pi\)
+D) Amplitud: \(2\pi\), Periodo: 1
+ANSWER: A
+Encuentre la amplitud y el periodo de \( y=\frac{1}{2}\cos(-3x) \).
+A) Amplitud: \(\frac{1}{2}\), Período: \(\frac{2\pi}{3}\)
+B) Amplitud: \(2\), Período: \(3\pi\)
+C) Amplitud: \(\frac{1}{3}\), Período: \(2\pi\)
+D) Amplitud: \(3\), Período: \(2\pi\)
+ANSWER: A
+Selecciona la gráfica que corresponde a la ecuación \( y= sen(-3x+5) \).
+A) 
+B) 
+C) 
+D) 
+ANSWER: A
+Selecciona la gráfica que corresponde a la ecuación \( y= sen(4x) \).
+A) 
+B) 
+C) 
+D) 
+ANSWER: A

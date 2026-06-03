@@ -1,0 +1,60 @@
+Colocado en 1990 y removido en 1997, el anuncio más alto del mundo era una gran letra I situada en lo alto del edificio de 73 pisos First Interstate World Center en Los Ángeles. A una distancia de 200 pies del punto directamente abajo del anuncio, el ángulo entre el suelo y la cima del anuncio era de 78.87 grados. Calcule aproximadamente la altura de la cima del anuncio.
+A) \(1016\) pies
+B) \(900\) pies
+C) \(1000\) pies
+D) \(850\) pies
+ANSWER: A
+Dos estrellas que están muy cercanas entre sí pueden parecer como una sola. La capacidad del telescopio para separar sus imágenes se llama resolución. Cuando mejor es la resolución, mejor es la capacidad del telescopio para separar imágenes en el cielo. En un telescopio de refracción, la resolución \(\theta\) se puede mejorar al usar una lente con diámetro \(D\) más grande. La relación entre \(\theta\) en grados y \(D\) en metros está dada por \(sen\theta=1.22\lambda/D\), donde \(\lambda\) es la longitud de onda de la luz en metros. El telescopio de refracción más grande del mundo está en la universidad de Chicago. A una longitud de onda de \(\lambda=550\times10^{-9}\) metros, su resolución es 0.00003769°. Calcule el diámetro de la lente.
+A) \(1.02\) metros
+B) \(1.10\) metros
+C) \(0.98\) metros
+D) \(1.15\) metros
+ANSWER: A
+El monte Fuji de Japón mide aproximadamente 12400 pies de altura. Un estudiante de trigonometría, situado a varias millas del monte, observa que el ángulo entre el nivel del suelo y el pico es de 30°. Estime la distancia del estudiante al punto a nivel del suelo que está directamente abajo del pico.
+A) \(21477.4\) pies
+B) \(24516.4\) pies
+C) \(43322.6\) pies
+D) \(43561.9\) pies
+ANSWER: A
+[Luna]Las fases de la Luna se pueden describir usando el ángulo de fase \(\theta\), determinado por el Sol, la Luna y la Tierra. Debido a que la Luna gira alrededor de la Tierra, el ángulo \(\theta\) cambia durante el curso de un mes. El área de la región \(A\) de la Luna, que aparece iluminada para un observador en la Tierra, está dado por \(A=\frac{1}{2}\pi R^2(1+cos\theta)\), donde \(R=\)1080 millas es el radio de la Luna. Calcule A para la posición lunar \(\theta=90°\) (cuarto creciente).
+A) \(1832176.83\) millas cuadradas
+B) \(190432.10\) millas cuadradas
+C) \(200314.98\) millas cuadradas
+D) \(145321.15\) millas cuadradas
+ANSWER: A
+Stonehenge en los llanos de Salisbury, Inglaterra, fue construido usando bloques de piedra maciza de más de 99000 libras cada uno. Levantar una sola piedra requería de 550 personas que le empujaran por una rampa inclinada a un ángulo de 9°. Calcule la distancia que una piedra era movida para levantarla a una altura de 30 pies.
+A) \(191.8\) pies
+B) \(180.4\) pies
+C) \(223.6\) pies
+D) \(210.9\) pies
+ANSWER: A
+Un edificio proyecta una sombra de 20 m de longitud. Si el ángulo de la punta de la sombra a un punto en la parte alta del edificio es de 69° ¿qué altura tiene el edificio?
+A) \(52.10\) metros
+B) \(45.59\) metros
+C) \(65.94\) metros
+D) \(45.15\) metros
+ANSWER: A
+Un guardabosque, situado a 200 pies de la base de una sequoia roja observa que el ángulo entre el suelo y la cima del árbol es de \( 60°\). Estime la altura del árbol.
+A) \(346.4\) pies
+B) \(245.0\) pies
+C) \(432.6\) pies
+D) \(299.9\) pies
+ANSWER: A
+Un observador en la azotea del edificio A mide un ángulo de depresión de 27° entre su horizontal y la base del edificio B. El ángulo de elevación del mismo punto en la azotea a la azotea del segundo edificio es de 41.42°. ¿Cuál es la altura del edificio B, si la altura del edificio A es de 150 pies? Suponga que los edificios están sobre el mismo plano horizontal.
+A) \(409.72\) pies
+B) \(294.39\) pies
+C) \(438.90\) pies
+D) \(78.98\) pies
+ANSWER: A
+Un topógrafo usa un geodímetro para medir la distancia, en línea recta, desde un punto en el suelo hasta la cumbre de una montaña y encuentra que es de 8000 pies. Calcula la altura de la montaña si el ángulo de elevación es de 22.82°.
+A) \(3102.7\) pies
+B) \(3700.4\) pies
+C) \(4750.5\) pies
+D) \(3200.2\) pies
+ANSWER: A
+Una torre de 50 pies está a la orilla de un río. El ángulo de elevación entre la orilla opuesta y la punta de la torre es de 37°. ¿Qué anchura tiene el río?
+A) \(66.35\) pies
+B) \(65.45\) pies
+C) \(57.34\) pies
+D) \(45.56\) pies
+ANSWER: A

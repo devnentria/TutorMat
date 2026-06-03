@@ -1,0 +1,102 @@
+Sea \( P \) el punto en la circunferencia unitaria que corresponde al ángulo \( t =2\pi \). Encuentre las coordenadas de \( P \) y los valores exactos de las funciones trigonométricas \( sen,cos\) y \( tan\) de \( t \), siempre que sea posible. 
+A) \( P = (1, 0) \), \( \sin(2\pi) = 0 \), \( \cos(2\pi) = 1 \), \( \tan(2\pi) = 0 \)
+B) \( P = (0, 1) \), \( \sin(2\pi) = 1 \), \( \cos(2\pi) = 0 \), \( \tan(2\pi) = \infty \)
+C) \( P = (-1, 0) \), \( \sin(2\pi) = 0 \), \( \cos(2\pi) = -1 \), \( \tan(2\pi) = 0 \)
+D) \( P = (0, -1) \), \( \sin(2\pi) = -1 \), \( \cos(2\pi) = 0 \), \( \tan(2\pi) = -\infty \)
+ANSWER: A
+Sea \( P \) el punto en la circunferencia unitaria que corresponde al ángulo \( t =-3\pi \). Encuentre las coordenadas de \( P \) y los valores exactos de las funciones trigonométricas \( sen,cos\) y \( tan\) de \( t \), siempre que sea posible.
+A) \( P = (-1, 0) \), \( \sin(-3\pi) = 0 \), \( \cos(-3\pi) = -1 \), \( \tan(-3\pi) = 0 \)
+B) \( P = (0, 1) \), \( \sin(-3\pi) = 1 \), \( \cos(-3\pi) = 0 \), \( \tan(-3\pi) = \infty \)
+C) \( P = (1, 0) \), \( \sin(-3\pi) = 0 \), \( \cos(-3\pi) = 1 \), \( \tan(-3\pi) = 0 \)
+D) \( P = (0, -1) \), \( \sin(-3\pi) = -1 \), \( \cos(-3\pi) = 0 \), \( \tan(-3\pi) = -\infty \)
+ANSWER: A
+Sea \( P \) el punto en la circunferencia unitaria que corresponde al ángulo \( t=-\pi \). Encuentre las coordenadas de \( P \) y los valores exactos de las funciones trigonométricas \( sen,cos\) y \( tan\) de \( t \), siempre que sea posible.
+A) \( P = (-1, 0) \), \( \sin(-\pi) = 0 \), \( \cos(-\pi) = -1 \), \( \tan(-\pi) = 0 \)
+B) \( P = (0, 1) \), \( \sin(-\pi) = 1 \), \( \cos(-\pi) = 0 \), \( \tan(-\pi) = \infty \)
+C) \( P = (1, 0) \), \( \sin(-\pi) = 0 \), \( \cos(-\pi) = 1 \), \( \tan(-\pi) = 0 \)
+D) \( P = (0, -1) \), \( \sin(-\pi) = -1 \), \( \cos(-\pi) = 0 \), \( \tan(-\pi) = -\infty \)
+ANSWER: A
+Sea \( P \) el punto en la circunferencia unitaria que corresponde al ángulo \( t=6\pi \). Encuentre las coordenadas de \( P \) y los valores exactos de las funciones trigonométricas \( sen,cos\) y \( tan\) de \( t \), siempre que sea posible.
+A) \( P = (1, 0) \), \( \sin(6\pi) = 0 \), \( \cos(6\pi) = 1 \), \( \tan(6\pi) = 0 \)
+B) \( P = (0, 1) \), \( \sin(6\pi) = 1 \), \( \cos(6\pi) = 0 \), \( \tan(6\pi) = \infty \)
+C) \( P = (-1, 0) \), \( \sin(6\pi) = 0 \), \( \cos(6\pi) = -1 \), \( \tan(6\pi) = 0 \)
+D) \( P = (0, -1) \), \( \sin(6\pi) = -1 \), \( \cos(6\pi) = 0 \), \( \tan(6\pi) = -\infty \)
+ANSWER: A
+Sea \( P \) el punto en la circunferencia unitaria que corresponde al ángulo \( t=frac{3\pi}{2} \). Encuentre las coordenadas de \( P \) y los valores exactos de las funciones trigonométricas \( sen,cos\) y \( tan\) de \( t \), siempre que sea posible. 
+A) \( P = (0, -1) \), \( \sin(\frac{3\pi}{2}) = -1 \), \( \cos(\frac{3\pi}{2}) = 0 \), \( \tan(\frac{3\pi}{2}) = \)NoDefinida
+B) \( P = (0, 1) \), \( \sin(\frac{3\pi}{2}) = 1 \), \( \cos(\frac{3\pi}{2}) = 0 \), \( \tan(\frac{3\pi}{2}) = \infty \)
+C) \( P = (-1, 0) \), \( \sin(\frac{3\pi}{2}) = 0 \), \( \cos(\frac{3\pi}{2}) = -1 \), \( \tan(\frac{3\pi}{2}) = 0 \)
+D) \( P = (0, 1) \), \( \sin(\frac{3\pi}{2}) = -1 \), \( \cos(\frac{3\pi}{2}) = 0 \), \( \tan(\frac{3\pi}{2}) = -\infty \)
+ANSWER: A
+Sea \( P \) el punto en la circunferencia unitaria que corresponde al ángulo \( t=frac{-7\pi}{2} \). Encuentre las coordenadas de \( P \) y los valores exactos de las funciones trigonométricas \( sen,cos\) y \( tan\) de \( t \), siempre que sea posible. 
+A) \( P = (0, -1) \), \( \sin(\frac{-7\pi}{2}) = -1 \), \( \cos(\frac{-7\pi}{2}) = 0 \), \( \tan(\frac{-7\pi}{2}) = \)NoDefinida
+B) \( P = (0, 1) \), \( \sin(\frac{-7\pi}{2}) = 1 \), \( \cos(\frac{-7\pi}{2}) = 0 \), \( \tan(\frac{-7\pi}{2}) = \infty \)
+C) \( P = (-1, 0) \), \( \sin(\frac{-7\pi}{2}) = 0 \), \( \cos(\frac{-7\pi}{2}) = -1 \), \( \tan(\frac{-7\pi}{2}) = 0 \)
+D) \( P = (0, 1) \), \( \sin(\frac{-7\pi}{2}) = -1 \), \( \cos(\frac{-7\pi}{2}) = 0 \), \( \tan(\frac{-7\pi}{2}) = -\infty \)
+ANSWER: A
+Sea \( P \) el punto en la circunferencia unitaria que corresponde al ángulo \( t=frac{5\pi}{2} \). Encuentre las coordenadas de \( P \) y los valores exactos de las funciones trigonométricas \( sen,cos\) y \( tan\) de \( t \), siempre que sea posible. 
+A) \( P = (0, 1) \), \( \sin(\frac{5\pi}{2}) = 1 \), \( \cos(\frac{5\pi}{2}) = 0 \), \( \tan(\frac{5\pi}{2}) = \)NoDefinida
+B) \( P = (0, -1) \), \( \sin(\frac{5\pi}{2}) = -1 \), \( \cos(\frac{5\pi}{2}) = 0 \), \( \tan(\frac{5\pi}{2}) = \infty \)
+C) \( P = (-1, 0) \), \( \sin(\frac{5\pi}{2}) = 0 \), \( \cos(\frac{5\pi}{2}) = -1 \), \( \tan(\frac{5\pi}{2}) = 0 \)
+D) \( P = (0, 1) \), \( \sin(\frac{5\pi}{2}) = -1 \), \( \cos(\frac{5\pi}{2}) = 0 \), \( \tan(\frac{5\pi}{2}) = -\infty \)
+ANSWER: A
+Sea \( P \) el punto en la circunferencia unitaria que corresponde al ángulo \( t=frac{-\pi}{2} \). Encuentre las coordenadas de \( P \) y los valores exactos de las funciones trigonométricas \( sen,cos\) y \( tan\) de \( t \), siempre que sea posible. 
+A) \( P = (0, -1) \), \( \sin(\frac{-\pi}{2}) = -1 \), \( \cos(\frac{-\pi}{2}) = 0 \), \( \tan(\frac{-\pi}{2}) = \)NoDefinida
+B) \( P = (0, 1) \), \( \sin(\frac{-\pi}{2}) = 1 \), \( \cos(\frac{-\pi}{2}) = 0 \), \( \tan(\frac{-\pi}{2}) = \infty \)
+C) \( P = (-1, 0) \), \( \sin(\frac{-\pi}{2}) = 0 \), \( \cos(\frac{-\pi}{2}) = -1 \), \( \tan(\frac{-\pi}{2}) = 0 \)
+D) \( P = (0, 1) \), \( \sin(\frac{-\pi}{2}) = -1 \), \( \cos(\frac{-\pi}{2}) = 0 \), \( \tan(\frac{-\pi}{2}) = -\infty \)
+ANSWER: A
+Sea \( P \) el punto en la circunferencia unitaria que corresponde al ángulo \( t=frac{9\pi}{4} \). Encuentre las coordenadas de \( P \) y los valores exactos de las funciones trigonométricas \( sen,cos\) y \( tan\) de \( t \), siempre que sea posible. 
+A) \( P = \left(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}\right) \), \( \sin(\frac{9\pi}{4}) = \frac{\sqrt{2}}{2} \), \( \cos(\frac{9\pi}{4}) = \frac{\sqrt{2}}{2} \), \( \tan(\frac{9\pi}{4}) = 1\)
+B) \( P = \left(\frac{1}{\sqrt{2}}, \frac{1}{\sqrt{2}}\right) \), \( \sin(\frac{9\pi}{4}) = \frac{\sqrt{3}}{2} \), \( \cos(\frac{9\pi}{4}) = \frac{\sqrt{3}}{2} \), \( \tan(\frac{9\pi}{4}) = 0\)
+C) \( P = \left(-\frac{1}{\sqrt{2}}, -\frac{1}{\sqrt{2}}\right) \), \( \sin(\frac{9\pi}{4}) = \frac{1}{2} \), \( \cos(\frac{9\pi}{4}) = \frac{1}{2} \), \( \tan(\frac{9\pi}{4}) = -1 \)
+D) \( P = \left(-\frac{\sqrt{2}}{2}, -\frac{\sqrt{2}}{2}\right) \), \( \sin(\frac{9\pi}{4}) = -\frac{\sqrt{2}}{2} \), \( \cos(\frac{9\pi}{4}) = -\frac{\sqrt{2}}{2} \), \( \tan(\frac{9\pi}{4}) = -\infty \)
+ANSWER: A
+Sea \( P(t) \) un punto en la circunferencia unitaria \( U \) que corresponde al ángulo \( t \). Si \( P(t)=(\frac{3}{5},\frac{4}{5}) \) tiene las coordenadas rectangulares dadas, encuentre \( P(t+\pi) \) 
+A) \( (-\frac{3}{5}, -\frac{4}{5}) \)
+B) \( (-\frac{4}{5}, \frac{3}{5}) \)
+C) \( (\frac{3}{5}, -\frac{4}{5}) \)
+D) \( (\frac{4}{5}, -\frac{3}{5}) \)
+ANSWER: A
+Sea \( P(t) \) un punto en la circunferencia unitaria \( U \) que corresponde al ángulo \( t \). Si \( P(t)= (-\frac{8}{17},\frac{15}{17}) \) tiene las coordenadas rectangulares dadas, encuentre \( P(t+\pi) \)
+A) \( \left(\frac{8}{17}, -\frac{15}{17}\right) \)
+B) \( \left(-\frac{15}{17}, -\frac{8}{17}\right) \)
+C) \( \left(\frac{8}{17}, -\frac{15}{17}\right) \)
+D) \( \left(\frac{15}{17}, \frac{8}{17}\right) \)
+ANSWER: A
+Sea \( P(t) \) un punto en la circunferencia unitaria \( U \) que corresponde al ángulo \( t \). Si \( P(t)= (-\frac{12}{13},-\frac{5}{13}) \) tiene las coordenadas rectangulares dadas, encuentre \( P(t+\pi) \) 
+A) \( \left(\frac{12}{13}, \frac{5}{13}\right) \)
+B) \( \left(\frac{5}{13}, -\frac{12}{13}\right) \)
+C) \( \left(-\frac{12}{13}, \frac{5}{13}\right) \)
+D) \( \left(-\frac{5}{13}, \frac{12}{13}\right) \)
+ANSWER: A
+Sea \( P(t) \) un punto en la circunferencia unitaria \( U \) que corresponde al ángulo \( t \). Si \( P(t)= (\frac{7}{25},-\frac{24}{25}) \) tiene las coordenadas rectangulares dadas, encuentre \( P(t+\pi) \) 
+A) \( -\left(-\frac{7}{25}, \frac{24}{25}\right) \)
+B) \( \left(\frac{24}{25}, -\frac{7}{25}\right) \)
+C) \( \left(\frac{7}{25}, \frac{24}{25}\right) \)
+D) \( \left(-\frac{24}{25}, -\frac{7}{25}\right) \)
+ANSWER: A
+Un punto \( P(x,y) \) se muestra en la circunferencia unitaria \( U \) correspondiente a un número real \( t \). Encuentre los valores de las funciones trigonométricas \( sen, cos \) y \( tan \) en \( t \).
+A) \( sent=8/17, cost=-15/17, tant=-8/15 \)
+B) \( sent=-15/17, cost=8/17, tant=-15/8 \)
+C) \( sent=17/8, cost=-17/15, tant=-15/8 \)
+D) \( sent=-17/15, cost=17/8, tant=-8/15 \)
+ANSWER: A
+Un punto \( P(x,y) \) se muestra en la circunferencia unitaria \( U \) correspondiente a un número real \( t \). Encuentre los valores de las funciones trigonométricas \( sen, cos \) y \( tan \) en \( t \).
+A) \( sent=3/5, cost=4/5, tant=3/4 \)
+B) \( sent=4/5, cost=3/5, tant=4/3 \)
+C) \( sent=5/3, cost=5/4, tant=4/3 \)
+D) \( sent=5/4, cost=5/3, tant=3/4 \)
+ANSWER: A
+Un punto \( P(x,y) \) se muestra en la circunferencia unitaria \( U \) correspondiente a un número real \( t \). Encuentre los valores de las funciones trigonométricas \( sen, cos \) y \( tan \) en \( t \).
+A) \( sent=-7/25, cost=24/25, tant=-7/24 \)
+B) \( sent=24/25, cost=-7/25, tant=-24/7 \)
+C) \( sent=25/24, cost=-25/7, tant=-7/24 \)
+D) \( sent=-25/7, cost=25/24, tant=-24/7 \)
+ANSWER: A
+Un punto \( P(x,y) \) se muestra en la circunferencia unitaria \( U \) correspondiente a un número real \( t \). Encuentre los valores de las funciones trigonométricas \( sen, cos \) y \( tan \) en \( t \).
+A) \( sent=-12/13, cost=-5/13, tant=12/5 \)
+B) \( sent=-5/13, cost=-12/13, tant=5/12 \)
+C) \( sent=-13/12, cost=-13/5, tant=-1 \)
+D) \( sent=-13/5, cost=-13/12, tant=1 \)
+ANSWER: A

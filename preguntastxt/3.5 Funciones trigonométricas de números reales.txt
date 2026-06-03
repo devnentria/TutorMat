@@ -1,0 +1,60 @@
+Encuentre todos los valores de \(x\) tales que para el número real \(a\), \(/y>a\) en el intervalo especificado. $$y=sen x; [-2\pi,2\pi]; a=1/2$$
+A) \(x \in \left(-\frac{11\pi}{6}  , -\frac{7\pi}{6} \right) \cup \left(\frac{\pi}{6}  , \frac{5\pi}{6} \right)\)
+B) \(x \in \left(-\frac{\pi}{3} , \frac{\pi}{3} \right) \)
+C) \(x \in \left(-\frac{\pi}{4} , \frac{\pi}{4} \right) \)
+D) \(x \in \left(-\frac{\pi}{2} , \frac{\pi}{2} \right) \)
+ANSWER: A
+Encuentre todos los valores de \(x\) tales que para el número real \(a\), \(/y>a\) en el intervalo especificado. $$y=cos x; [0,2\pi]; a=\sqrt{3}/2$$
+A) \(x \in \left(0, \frac{\pi}{6}\right) \cup \left(\frac{11\pi}{6}, 2\pi\right) \)
+B) \(x \in \left(\frac{\pi}{6}, \frac{\pi}{3}\right) \cup \left(\frac{5\pi}{3}, \frac{11\pi}{6}\right) \)
+C) \(x \in \left(0, \frac{\pi}{3}\right) \cup \left(\frac{2\pi}{3}, \pi\right) \)
+D) \(x \in \left(\frac{\pi}{3}, \frac{5\pi}{6}\right) \cup \left(\frac{7\pi}{6}, 2\pi\right) \)
+ANSWER: A
+Encuentre todos los valores de \(x\) tales que para el número real \(a\), \(/y>a\) en el intervalo especificado. $$y=cos x; [-2\pi,2\pi]; a=-1/2$$
+A) \(x \in \left(-\frac{4\pi}{3}, -\frac{2\pi}{3}\right) \cup \left(\frac{2\pi}{3}, \frac{4\pi}{3}\right) \)\\
+B) \(x \in \left(-\frac{\pi}{3}, \frac{\pi}{3}\right) \)\\
+C) \(x \in \left(\frac{2\pi}{3}, \frac{4\pi}{3}\right) \) \\
+D) \(x \in \left(-\pi, -\frac{\pi}{3}\right) \cup \left(\frac{\pi}{3}, \pi\right) \)
+ANSWER: A
+Encuentre todos los valores de \(x\) tales que para el número real \(a\), \(/y>a\) en el intervalo especificado. $$y=sen x; [0,2\pi]; a=-\sqrt{2}/2$$
+A) \( x \in \left(0, \frac{5\pi}{4}\right) \cup \left(\frac{7\pi}{4}, 2\pi\right) \)
+B) \( x \in \left(\frac{3\pi}{2}, 2\pi\right) \)
+C) \( x \in \left(0, \frac{\pi}{4}\right) \cup \left(\frac{3\pi}{4}, \frac{5\pi}{4}\right) \)
+D) \(x \in \left(\frac{\pi}{4}, \frac{3\pi}{4}\right) \cup \left(\pi, \frac{3\pi}{2}\right) \)
+ANSWER: A
+Selecciona la gráfica correspondiente a la función trigonométrica \(y=2+sen x\).
+A) 
+B) 
+C) 
+D) 
+ANSWER: A
+Selecciona la gráfica correspondiente a la función trigonométrica \(y=3+cos x\).
+A) 
+B) 
+C) 
+D) 
+ANSWER: A
+Selecciona la gráfica correspondiente a la función trigonométrica \(y=cos x -2\).
+A) 
+B) 
+C) 
+D) 
+ANSWER: A
+Selecciona la gráfica correspondiente a la función trigonométrica \(y=senx-1\).
+A) 
+B) 
+C) 
+D) 
+ANSWER: A
+Use la figura para calcular \(sen(-1.2 rad)\) a un lugar decimal.
+A) -0.9
+B) 0.4
+C) 5.1
+D) 1
+ANSWER: A
+Use la figura para calcular \(sen(4 rad)\) a un lugar decimal.
+A) -0.7
+B) 1
+C) 0.8
+D) -1
+ANSWER: A

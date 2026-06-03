@@ -1,0 +1,60 @@
+Use la fórmula para ángulos negativos para hallar el valor exacto $$cos (\frac{-3\Pi }{4}) tan(-135)$$
+A) -1
+B) 1
+C) 0
+D) $$ \frac{-\sqrt{2}}{2}$$
+ANSWER: D
+Use la fórmula para ángulos negativos para hallar el valor exacto $$cot(-225)$$
+A) -1
+B) 1
+C) 0
+D) $$ \frac{\sqrt{2}}{2}$$
+ANSWER: A
+Use la fórmula para ángulos negativos para hallar el valor exacto $$csc(-45)$$
+A) -1
+B) 1
+C) 0
+D) $$ -\sqrt{2} $$
+ANSWER: D
+Use la fórmula para ángulos negativos para hallar el valor exacto $$sec(-45)$$
+A) -1
+B) 1
+C) 0
+D) $$ \sqrt{2} $$
+ANSWER: D
+Use la fórmula para ángulos negativos para hallar el valor exacto $$sen (-90)$$
+A) -1
+B) 1
+C) 0
+D) $$ \frac{\sqrt{-2}}{2}$$
+ANSWER: A
+Use la fórmula para ángulos negativos para hallar el valor exacto $$sen(-225)$$
+A) -1
+B) 1
+C) 0
+D) $$ \frac{1}{\sqrt{2}}$$
+ANSWER: D
+Use la fórmula para ángulos negativos para hallar el valor exacto $$sen(\frac{-3\Pi }{2})$$
+A) -1
+B) 1
+C) 0
+D) $$ -\frac{1}{\sqrt{2}}$$
+ANSWER: D
+Use la fórmula para ángulos negativos para hallar el valor exacto $$tan(\frac{-\Pi }{4})$$
+A) -1
+B) 1
+C) 0
+D) $$ \frac{\sqrt{2}}{2}$$
+ANSWER: A
+Use la fórmula para ángulos negativos para hallar el valor exacto $$cot(\frac{-3\Pi }{4})$$
+A) -1
+B) 1
+C) 0
+D) $$ \frac{\sqrt{2}}{2}$$
+ANSWER: B
+Use la fórmula para ángulos negativos para hallar el valor exacto $$csc(\frac{-3\Pi }{2})$$
+A) 1
+B) -1
+C) 0
+D) $$ \frac{\sqrt{2}}{2}$$
+ANSWER: A

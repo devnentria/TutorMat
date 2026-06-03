@@ -1,0 +1,42 @@
+Use las identidades trigonométricas de Pitágoras para escribir la expresión $$\tan^{2} (4\beta) - sec^{2} (4\beta) $$ como un entero
+A) $$\tan^{2} 4\beta - sec^{2} 4\beta = 0 $$
+B) $$\tan^{2} 4\beta - sec^{2} 4\beta = 2 $$
+C) $$\tan^{2} 4\beta - sec^{2} 4\beta = 1 $$
+D) $$\tan^{2} 4\beta - sec^{2} 4\beta = -1 $$
+ANSWER: D
+Use las identidades trigonométricas de Pitágoras para escribir la expresión $$4 tan^{2} (\beta) - 4 sec^{2} (\beta) $$ como un entero
+A) $$4 tan^{2} \beta - 4 sec^{2} \beta = -4 $$
+B) $$4 tan^{2} \beta - 4 sec^{2} \beta = 4 $$
+C) $$4 tan^{2} \beta - 4 sec^{2} \beta = -1 $$
+D) $$4 tan^{2} \beta - 4 sec^{2} \beta = 1 $$
+ANSWER: A
+Use las identidades trigonometricas de pitágoras para escribir la expresión $$\csc^{2} (3\alpha) - cot^{2} (3\alpha) $$ como un entero
+A) $$\csc^{2} 3\alpha - cot^{2} 3\alpha = 1 $$
+B) $$\csc^{2} 3\alpha - cot^{2} 3\alpha = 0 $$
+C) $$\csc^{2} 3\alpha - cot^{2} 3\alpha =-1$$
+D) $$\csc^{2} 3\alpha - cot^{2} 3\alpha = -cos^{2} 3\alpha$$
+ANSWER: A
+Verifique la identidad $$ csc^{4} 2\theta +sen^{2} \theta  = cos^{2} 2\theta  + sen^{4} 2\theta $$
+A) Verdadero
+B) Falso
+ANSWER: B
+Verifique la identidad $$ csc^{4}t-cot^{4}t =csc^{2}t + cot^{2}t $$
+A) Verdadero
+B) Falso
+ANSWER: A
+Verifique la identidad $$(sec u-tan u)(csc u+1 ) \,= cot u $$
+A) Verdadero
+B) Falso
+ANSWER: A
+Verifique la identidad $$(tan u + cot u)(cos u + sen u)= cos u + sec u $$
+A) Verdadero
+B) Falso
+ANSWER: B
+Verifique la identidad $$tan^{2} \alpha-sen^{2}\alpha = tan^{2}sen^{2}\alpha$$
+A) Verdadero
+B) Falso
+ANSWER: A
+Verifique la identidad $$csc \theta - sen \theta = cot \theta  \cos\theta $$
+A) Verdadero
+B) Falso
+ANSWER: A

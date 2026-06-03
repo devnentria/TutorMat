@@ -1,0 +1,144 @@
+Encuentre el valor exacto $$cos 195°$$ Usa \(195°=225°-30°\)
+A) \( \frac{-\sqrt(6)-\sqrt(2)}{4}\)
+B) \( \frac{\sqrt(2)+\sqrt(6)}{4}\)
+C) \( \frac{\sqrt(3)-\sqrt(2)}{2}\)
+D) \( \frac{-\sqrt(2)+3}{4}\)
+ANSWER: A
+Encuentre el valor exacto $$cos 225°-cos30°$$
+A) \( \frac{-\sqrt(2)-\sqrt(3)}{2}\)
+B) \( \frac{\sqrt(2)-\sqrt(3)}{3}\)
+C) \( \frac{2-2\sqrt(3)}{2}\)
+D) \( \frac{-\sqrt(3)-3}{2}\)
+ANSWER: A
+Encuentre el valor exacto $$cos \frac{5\pi}{12}$$ Usa \( \frac{5\pi}{12}=\frac{\pi}{4}+\frac{\pi}{6} \)
+A) \( \frac{\sqrt(2)-\sqrt(6)}{4}\)
+B) \( \frac{\sqrt(2)+\sqrt(6)}{4}\)
+C) \( \frac{\sqrt(4)-\sqrt(3)}{2}\)
+D) \( \frac{\sqrt(6)+2}{4} \)
+ANSWER: A
+Encuentre el valor exacto $$cos \frac{\pi}{4} + cos \frac{\pi}{6}$$
+A) \( \frac{\sqrt(2)+\sqrt(3)}{2}\)
+B) \( \frac{\sqrt(3)+\sqrt(3)}{3}\)
+C) \( \frac{\sqrt(4)+\sqrt(3)}{4}\)
+D) \( \frac{\sqrt(2)+3}{4}\)
+ANSWER: A
+Encuentre el valor exacto $$sen \frac{11\pi}{12}$$ Usa \( \frac{11\pi}{12}=\frac{2\pi}{3}+\frac{\pi}{4} \)
+A) \( \frac{\sqrt(6)-\sqrt(2)}{4}\)
+B) \( \frac{\sqrt(2)-\sqrt(6)}{4}\)
+C) \( \frac{\sqrt(3)-\sqrt(2)}{2}\)
+D) \( \frac{\sqrt(2)+3}{4}\)
+ANSWER: A
+Encuentre el valor exacto $$sen \frac{2\pi}{3} + sen \frac{\pi}{4}$$
+A) \( \frac{\sqrt(2)+\sqrt(3)}{2}\)
+B) \( \frac{\sqrt(4)+\sqrt(6)}{4}\)
+C) \( \frac{2-2\sqrt(3)}{3}\)
+D) \( \frac{\sqrt(2)+3}{4}\)
+ANSWER: A
+Encuentre el valor exacto $$sen \frac{\pi}{12}$$ Usa \(frac{\pi}{12}=\frac{\pi}{4}-\frac{\pi}{6}\)
+A) \( \frac{\sqrt(6)-\sqrt(2)}{4}\)
+B) \( \frac{\sqrt(2)+\sqrt(6)}{4}\)
+C) \( \frac{\sqrt(3)-\sqrt(2)}{2}\)
+D) \( \frac{\sqrt(2)+3}{4}\)
+ANSWER: A
+Encuentre el valor exacto $$sen \frac{\pi}{4}-sen \frac{\pi}{6}$$
+A) \( \frac{\sqrt(2)-1}{2}\)
+B) \( 1+\sqrt(2)\)
+C) \( \frac{2-2\sqrt(1)}{2}\)
+D) \( \frac{\sqrt(2)+3}{4}\)
+ANSWER: A
+Encuentre el valor exacto $$tan 285°$$ Usa \(285°=60°+225°\)
+A) \( -2-\sqrt(3)\)
+B) \(\sqrt(3)\)
+C) \( -1\)
+D) \( -\sqrt(3)\)
+ANSWER: A
+Encuentre el valor exacto $$tan 60° + tan 225°$$
+A) \( \sqrt(3)+1\)
+B) \( 1-\sqrt(3)\)
+C) \( \frac{2-2\sqrt(3)}{2}\)
+D) \( \frac{\sqrt(2)+3}{4}\)
+ANSWER: A
+Exprese como una función trigonométrica de un ángulo $$cos6°cos25°-sen6°sen25°$$
+A) \( cos 31°\)
+B) \( sen 31°\)
+C) \( cos 19°\)
+D) \( sen 19°\)
+ANSWER: A
+Exprese como una función trigonométrica de un ángulo $$sen57°cos4°+cos57°sen4°$$
+A) \( sen 61°\)
+B) \( cos 61°\)
+C) \( cos 53°\)
+D) \( sen 53°\)
+ANSWER: A
+Exprese como una función trigonométrica de un ángulo $$cos70°cos53°+sen70°sen53°$$
+A) \( cos 17°\)
+B) \( sen 17°\)
+C) \( cos 123°\)
+D) \( sen 123°\)
+ANSWER: A
+Exprese como una función trigonométrica de un ángulo $$cos61°sen82°-sen61°cos82°$$
+A) \( sen 21°\)
+B) \( cos 21°\)
+C) \( cos 143°\)
+D) \( sen 143°\)
+ANSWER: A
+Exprese \(cos 73°12'\) como cofunción de un ángulo complementario
+A) \(sen 16°48'\)
+B) \(cos 16°48'\)
+C) \(sen 73°12'\)
+D) \(cos 106°48'\)
+ANSWER: A
+Exprese \(cos \pi/3\) como cofunción de un ángulo complementario
+A) \(sen \pi/6\)
+B) \(cos \pi/6\)
+C) \(sen \pi/3\)
+D) \(cos \pi/2\)
+ANSWER: A
+Exprese \(cos \pi/8\) como cofunción de un ángulo complementario
+A) \(sen 3\pi/8\)
+B) \(cos 3\pi/8\)
+C) \(sen \pi/8\)
+D) \(sen 7\pi/8\)
+ANSWER: A
+Exprese \(cot 61.87°\) como cofunción de un ángulo complementario
+A) \(tan 28.13°\)
+B) \(tan 61.87°\)
+C) \(cot 28.13°\)
+D) \(cot 118.13°\)
+ANSWER: A
+Exprese \(sec 17.28°\) como cofunción de un ángulo complementario
+A) \(csc 72.72°\)
+B) \(sec 72.72°\)
+C) \(csc 17.28°\)
+D) \(sec 162.72°\)
+ANSWER: A
+Exprese \(sen 15°20'\) como cofunción de un ángulo complementario.
+A) \(cos 74°40'\)
+B) \(cos 15°20'\)
+C) \(sen 74°40'\)
+D) \(sen 164°20'\)
+ANSWER: A
+Exprese \(sen 89°41'\) como cofunción de un ángulo complementario
+A) \(cos 0°19'\)
+B) \(cos 89°41'\)
+C) \(sen 0°19'\)
+D) \(sen 90°19'\)
+ANSWER: A
+Exprese \(sen \pi/12\) como cofunción de un ángulo complementario
+A) \(cos 5\pi/12\)
+B) \(cos \pi/12\)
+C) \(sen 5\pi/12\)
+D) \(sen 11\pi/12\\)
+ANSWER: A
+Exprese \(tan 37°50'\) como cofunción de un ángulo complementario
+A) \(cot 52°10'\)
+B) \(cot 37°50'\)
+C) \(tan 52°10'\)
+D) \(tan 142°10'\)
+ANSWER: A
+Exprese \(tan \pi/6\) como cofunción de un ángulo complementario
+A) \(cot \pi/3\)
+B) \(cot 5\pi/6\)
+C) \(tan \pi/3\)
+D) \(tan 5\pi/6\)
+ANSWER: A

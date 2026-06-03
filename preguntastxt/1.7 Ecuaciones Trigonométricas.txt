@@ -1,0 +1,60 @@
+Hallar todas las soluciones de la ecuación $$2cos 2x-\sqrt{3}=0$$
+A) \( x = -\frac{\pi}{12} + \pi n, \frac{\pi}{12} + \pi n \)
+B) \( x = -\frac{\pi}{6} + \pi n, \frac{5\pi}{6} + \pi n \)
+C) \( x = -\frac{\pi}{4} + \pi n, \frac{3\pi}{4} + \pi n \)
+D) \( x = -\frac{\pi}{3} + \pi n, \frac{2\pi}{3} + \pi n \)
+ANSWER: A
+Hallar todas las soluciones de la ecuación $$2sen 3x-\sqrt{2}=0$$
+A) \( x = \frac{\pi}{12} + \frac{2\pi n}{3}, \frac{\pi}{4} + \frac{2\pi n}{3} \)
+B) \( x = \frac{\pi}{4} + \frac{2\pi n}{3}, \frac{3\pi}{4} + \frac{2\pi n}{3} \)
+C) \( x = \frac{\pi}{6} + \frac{2\pi n}{3}, \frac{5\pi}{6} + \frac{2\pi n}{3} \)
+D) \( x = \frac{\pi}{3} + \frac{2\pi n}{3}, \frac{2\pi}{3} + \frac{2\pi n}{3} \)
+ANSWER: A
+Hallar todas las soluciones de la ecuación $$cos x=-1$$
+A) \( x = \pi + 2\pi n, -\pi +2\pi n \)
+B) \( x = -\frac{\pi}{2} + 2\pi n, \frac{\pi}{2} + 2\pi n \)
+C) \( x = 2\pi n \)
+D) \( x = \frac{3\pi}{2} + 2\pi n \)
+ANSWER: A
+Hallar todas las soluciones de la ecuación $$cos x=\frac{-3\pi}{2}$$
+A) No tiene solución
+B) \( x = \frac{\pi}{2} + 2\pi n \)
+C) \( x = 2\pi n \)
+D) \( x = \frac{3\pi}{2} + 2\pi n \)
+ANSWER: A
+Hallar todas las soluciones de la ecuación $$cot x=-\frac{1}{\sqrt{3}}$$
+A) \( x = -\frac{\pi}{3} + \pi n \)
+B) \( x = \frac{\pi}{3} + \pi n \)
+C) \( x = \frac{4\pi}{3} - \pi n \)
+D) \( x = -\frac{5\pi}{3} + \pi n \)
+ANSWER: A
+Hallar todas las soluciones de la ecuación $$csc x=\sqrt{2}$$
+A) \( x = \frac{\pi}{4} + 2\pi n, \frac{3\pi}{4} + 2\pi n \)
+B) \( x = \frac{\pi}{6} + 2\pi n, \frac{5\pi}{6} + 2\pi n \)
+C) \( x = \frac{\pi}{3} + 2\pi n, \frac{2\pi}{3} + 2\pi n \)
+D) \( x = \frac{\pi}{2} + 2\pi n, \frac{\pi}{2} + 2\pi n \)
+ANSWER: A
+Hallar todas las soluciones de la ecuación $$sec x=2$$
+A) \( x = \frac{\pi}{3} + 2\pi n, -\frac{\pi}{3} + 2\pi n \)
+B) \( x = \frac{2\pi}{3} + 2\pi n, \frac{4\pi}{3} + 2\pi n \)
+C) \( x = \frac{\pi}{4} + 2\pi n, \frac{3\pi}{4} + 2\pi n \)
+D) \( x = \frac{\pi}{2} + 2\pi n, \frac{3\pi}{2} + 2\pi n \)
+ANSWER: A
+Hallar todas las soluciones de la ecuación $$sen x=-\frac{\sqrt{2}}{2}$$
+A) \( x =\frac{5\pi}{4}+2\pi n, -\frac{\pi}{4}+2\pi n\)
+B) \( x = \frac{3\pi}{2} + 2\pi n, \frac{\pi}{2} + 2\pi n \)
+C) \( x = \frac{3\pi}{4} + 2\pi n, \frac{\pi}{4} + 2\pi n \)
+D) \( x = \frac{7\pi}{6} + 2\pi n, \frac{11\pi}{6} + 2\pi n \)
+ANSWER: A
+Hallar todas las soluciones de la ecuación $$sen x=\frac{\pi}{2}$$
+A) No tiene solución
+B) \( x = \frac{\pi}{2} + 2\pi n \)
+C) \( x = 2\pi n \)
+D) \( x = \frac{3\pi}{2} + 2\pi n \)
+ANSWER: A
+Hallar todas las soluciones de la ecuación $$tan x=\sqrt{3}$$
+A) \( x = \frac{\pi}{3}+\pi n \)
+B) \( x = \frac{2\pi}{3} + \pi n \)
+C) \( x = \frac{4\pi}{3} + \pi n \)
+D) \( x = \frac{5\pi}{3} + \pi n \)
+ANSWER: A

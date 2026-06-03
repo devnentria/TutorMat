@@ -1,0 +1,42 @@
+Encuentre los valores de las tres funciones trigonométricas para el ángulo  $$ \theta$$
+A) $$sen \theta = \frac{a}{b}, \: \: cos \theta = \frac{b}{c},\, \, tan \theta = \frac{a}{b} $$
+B) $$sen \theta = \frac{c}{b}, \: \: cos \theta = \frac{c}{a},\, \, tan \theta = \frac{b}{a} $$
+C) $$sen \theta = \frac{a}{c}, \: \: cos \theta = \frac{b}{c},\, \, tan \theta = \frac{a}{b} $$
+D) $$sen \theta = \frac{b}{c}}, \: \: cos \theta = \frac{a}{c},\, \, tan \theta = \frac{a}{b} $$
+ANSWER: D
+Encuentre los valores de las tres funciones trigonométricas para el ángulo  $$ \theta$$
+A) $$sen \theta = \frac{b}{c}, \: \: cos \theta = \frac{a}{c},\, \, tan \theta = \frac{a}{b} $$
+B) $$sen \theta = \frac{c}{b}, \: \: cos \theta = \frac{c}{a},\, \, tan \theta = \frac{b}{a} $$
+C) $$sen \theta = \frac{a}{c}, \: \: cos \theta = \frac{b}{c},\, \, tan \theta = \frac{a}{b} $$
+D) $$sen \theta = \frac{b}{c}, \: \: cos \theta = \frac{c}{}a},\, \, tan \theta = \frac{a}{b} $$
+ANSWER: A
+Encuentre los valores de las tres funciones trigonométricas para el ángulo  $$ \theta$$[Muestra]
+A) $$sen \theta = \frac{a}{b}, \: \: cos \theta = \frac{b}{c},\, \, tan \theta = \frac{a}{b} $$
+B) $$sen \theta = \frac{c}{b}, \: \: cos \theta = \frac{c}{a},\, \, tan \theta = \frac{b}{a} $$
+C) $$sen \theta = \frac{a}{c}, \: \: cos \theta = \frac{b}{c},\, \, tan \theta = \frac{a}{b} $$
+D) $$sen \theta = \frac{c}{a}, \: \: cos \theta = \frac{c}{b},\, \, tan \theta = \frac{b}{a} $$
+ANSWER: D
+Encuentre los valores de las tres funciones trigonométricas para el ángulo $$ \theta$$[Muestra]
+A) $$sen \theta = \frac{17}{8}, \: \: cos \theta = \frac{17}{15},\, \, tan \theta = \frac{15}{8} $$
+B) $$sen \theta = \frac{8}{17}, \: \: cos \theta = \frac{15}{17},\, \, tan \theta = \frac{15}{8} $$
+C) $$sen \theta = \frac{8}{17}, \: \: cos \theta = \frac{15}{17},\, \, tan \theta = \frac{8}{15} $$
+D) $$sen \theta = \frac{17}{8}, \: \: cos \theta = \frac{17}{15},\, \, tan \theta = \frac{8}{15} $$
+ANSWER: C
+Encuentre los valores de las tres funciones trigonométricas para el ángulo $$ \theta$$      [Muestra]
+A) $$sen \theta = \frac{5}{4}, \: \: cos \theta = \frac{3}{5},\, \, tan \theta = \frac{3}{4} $$
+B) $$sen \theta = \frac{4}{5}, \: \: cos \theta = \frac{3}{5},\, \, tan \theta = \frac{4}{3} $$
+C) $$sen \theta = \frac{4}{5}, \: \: cos \theta = \frac{5}{3},\, \, tan \theta = \frac{4}{3} $$
+D) $$sen \theta = \frac{5}{4}, \: \: cos \theta = \frac{5}{3},\, \, tan \theta = \frac{3}{4} $$
+ANSWER: B
+Encuentre los valores de las tres funciones trigonométricas para el ángulo  $$ \theta$$[Muestra]
+A) $$sen \theta = \frac{a}{b}, \: \: cos \theta = \frac{b}{c},\, \, tan \theta = \frac{a}{b} $$
+B) $$sen \theta = \frac{c}{b}, \: \: cos \theta = \frac{c}{a},\, \, tan \theta = \frac{b}{a} $$
+C) $$sen \theta = \frac{a}{c}, \: \: cos \theta = \frac{b}{c},\, \, tan \theta = \frac{a}{b} $$
+D) $$sen \theta = \frac{c}{a}, \: \: cos \theta = \frac{c}{b},\, \, tan \theta = \frac{b}{a} $$
+ANSWER: D
+Encuentre los valores de las tres funciones trigonométricas para el ángulo $$ \theta$$[Muestra]
+A) $$sen \theta = \frac{17}{8}, \: \: cos \theta = \frac{17}{15},\, \, tan \theta = \frac{15}{8} $$
+B) $$sen \theta = \frac{8}{17}, \: \: cos \theta = \frac{15}{17},\, \, tan \theta = \frac{15}{8} $$
+C) $$sen \theta = \frac{8}{17}, \: \: cos \theta = \frac{15}{17},\, \, tan \theta = \frac{8}{15} $$
+D) $$sen \theta = \frac{17}{8}, \: \: cos \theta = \frac{17}{15},\, \, tan \theta = \frac{8}{15} $$
+ANSWER: C

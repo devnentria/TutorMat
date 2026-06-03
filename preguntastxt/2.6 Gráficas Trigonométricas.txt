@@ -1,0 +1,84 @@
+Encuentre la amplitud, el periodo y el desplazamiento de fase de la ecuación $$y=sen(x-\frac{\pi}{2})$$
+A) Amplitud: \( 1 \), Periodo: \( 2\pi \), Desplazamiento de fase: \( \frac{\pi}{2} \)
+B) Amplitud: \( 2 \), Periodo: \( \pi \), Desplazamiento de fase: \( \pi \)
+C) Amplitud: \( \frac{1}{2} \), Periodo: \( \frac{\pi}{2} \), Desplazamiento de fase: \( 2\pi \)
+D) Amplitud: \( \pi \), Periodo: \( 3\pi \), Desplazamiento de fase: \( \frac{\pi}{4} \)
+ANSWER: A
+Encuentre la amplitud, el periodo y el desplazamiento de fase de la ecuación $$y=sen(x+\frac{\pi}{4})$$
+A) Amplitud: \( 1 \), Periodo: \( 2\pi \), Desplazamiento de fase: \( -\frac{\pi}{4} \)
+B) Amplitud: \( \frac{1}{2} \), Periodo: \( \pi \), Desplazamiento de fase: \( \frac{\pi}{4} \)
+C) Amplitud: \( \pi \), Periodo: \( 3\pi \), Desplazamiento de fase: \( \frac{\pi}{2} \)
+D) Amplitud: \( 2 \), Periodo: \( \frac{\pi}{2} \), Desplazamiento de fase: \( \pi \)
+ANSWER: A
+Encuentre la amplitud, el periodo y el desplazamiento de fase de la ecuación $$y=3sen(x+\frac{\pi}{6})$$
+A) Amplitud: \( 3 \), Periodo: \( 2\pi \), Desplazamiento de fase: \( -\frac{\pi}{6} \)
+B) Amplitud: \( \frac{\pi}{6} \), Periodo: \( \pi \), Desplazamiento de fase: \( \frac{\pi}{4} \)
+C) Amplitud: \( 6 \), Periodo: \( 3\pi \), Desplazamiento de fase: \( \frac{\pi}{2} \)
+D) Amplitud: \( \frac{3\pi}{6} \), Periodo: \( \frac{\pi}{2} \), Desplazamiento de fase: \( -\pi \)
+ANSWER: A
+Encuentre la amplitud, el periodo y el desplazamiento de fase de la ecuación $$y=2sen(x-\frac{\pi}{2})$$
+A) Amplitud: \( 2 \), Periodo: \( 2\pi \), Desplazamiento de fase: \( \frac{\pi}{2} \)
+B) Amplitud: \( \frac{\pi}{2} \), Periodo: \( 3\pi \), Desplazamiento de fase: \( -\frac{\pi}{3} \)
+C) Amplitud: \( 3 \), Periodo: \( 3\pi \), Desplazamiento de fase: \( \frac{\pi}{4} \)
+D) Amplitud: \( \frac{3\pi}{2} \), Periodo: \( \frac{\pi}{3} \), Desplazamiento de fase: \( -\pi \)
+ANSWER: A
+Encuentre la amplitud, el periodo y el desplazamiento de fase de la ecuación $$y=cos(x+\frac{\pi}{3})$$
+A) \begin{itemize} \item Amplitud: \(1\) \item Período: \(2\pi\) \item Desplazamiento de fase: \(-\frac{\pi}{3}\) \end{itemize}
+B) \begin{itemize} \item Amplitud: \(\frac{\pi}{3}\) \item Período: \(\pi\) \item Desplazamiento de fase: \(\frac{\pi}{6}\) \end{itemize}
+C) \begin{itemize} \item Amplitud: \(2\) \item Período: \(\frac{\pi}{3}\) \item Desplazamiento de fase: \(\frac{\pi}{3}\) \end{itemize}
+D) \begin{itemize} \item Amplitud: \(-\frac{\pi}{3}\) \item Período: \(3\pi\) \item Desplazamiento de fase: \(\pi\) \end{itemize}
+ANSWER: A
+Encuentre la amplitud, el periodo y el desplazamiento de fase de la ecuación $$y=cos(x-\frac{\pi}{3})$$
+A) \begin{itemize} \item Amplitud: \(1\) \item Período: \(2\pi\) \item Desplazamiento de fase: \(\frac{\pi}{3}\) \end{itemize}
+B) \begin{itemize} \item Amplitud: \(\frac{\pi}{3}\) \item Período: \(\pi\) \item Desplazamiento de fase: \(-\frac{\pi}{3}\) \end{itemize}
+C) \begin{itemize} \item Amplitud: \(2\) \item Período: \(\frac{\pi}{3}\) \item Desplazamiento de fase: \(-\frac{\pi}{3}\) \end{itemize}
+D) \begin{itemize} \item Amplitud: \(-\frac{\pi}{3}\) \item Período: \(3\pi\) \item Desplazamiento de fase: \(\pi\) \end{itemize}
+ANSWER: A
+Encuentre la amplitud, el periodo y el desplazamiento de fase de la ecuación $$y=4cos(x-\frac{\pi}{4})$$
+A) \begin{itemize} \item Amplitud: \(4\) \item Período: \(2\pi\) \item Desplazamiento de fase: \(\frac{\pi}{4}\) \end{itemize}
+B) \begin{itemize} \item Amplitud: \(\frac{1}{4}\) \item Período: \(\pi\) \item Desplazamiento de fase: \(\frac{\pi}{8}\) \end{itemize}
+C) \begin{itemize} \item Amplitud: \(2\) \item Período: \(\frac{\pi}{2}\) \item Desplazamiento de fase: \(-\frac{\pi}{4}\) \end{itemize}
+D) \begin{itemize} \item Amplitud: \(-\frac{\pi}{4}\) \item Período: \(4\pi\) \item Desplazamiento de fase: \(-\pi\) \end{itemize}
+ANSWER: A
+Encuentre la amplitud, el periodo y el desplazamiento de fase de la ecuación $$y=3cos(x+\frac{\pi}{6})$$
+A) \begin{itemize} \item Amplitud: \(3\) \item Período: \(2\pi\) \item Desplazamiento de fase: \(-\frac{\pi}{6}\) \end{itemize}
+B) \begin{itemize} \item Amplitud: \(\frac{1}{3}\) \item Período: \(\pi\) \item Desplazamiento de fase: \(-\frac{\pi}{12}\) \end{itemize}
+C) \begin{itemize} \item Amplitud: \(6\) \item Período: \(\frac{\pi}{6}\) \item Desplazamiento de fase: \(-\frac{\pi}{3}\) \end{itemize}
+D) \begin{itemize} \item Amplitud: \(\pi\) \item Período: \(3\pi\) \item Desplazamiento de fase: \(\frac{\pi}{6}\) \end{itemize}
+ANSWER: A
+Encuentre la amplitud, el periodo y el desplazamiento de fase de la ecuación $$y=sen(2x-\pi)+1$$
+A) \begin{itemize} \item Amplitud: \(1\) \item Periodo: \(\pi\) \item Desplazamiento de fase: \(\frac{\pi}{2}\) \end{itemize}
+B) \begin{itemize} \item Amplitud: \(2\) \item Periodo: \(\frac{\pi}{2}\) \item Desplazamiento de fase: \(\pi\) \end{itemize}
+C) \begin{itemize} \item Amplitud: \(1\) \item Periodo: \(\frac{\pi}{2}\) \item Desplazamiento de fase: \(\frac{\pi}{4}\) \end{itemize}
+D) \begin{itemize} \item Amplitud: \(-1\) \item Periodo: \(\pi\) \item Desplazamiento de fase: \(-\frac{\pi}{2}\) \end{itemize}
+ANSWER: A
+Encuentre la amplitud, el periodo y el desplazamiento de fase de la ecuación $$y=-sen(3x+\pi)-1$$
+A) \begin{itemize} \item Amplitud: \(1\) \item Periodo: \(\frac{2\pi}{3}\) \item Desplazamiento de fase: \(-\frac{\pi}{3}\) \end{itemize}
+B) \begin{itemize} \item Amplitud: \(-1\) \item Periodo: \(\frac{\pi}{3}\) \item Desplazamiento de fase: \(-\frac{\pi}{2}\) \end{itemize}
+C) \begin{itemize} \item Amplitud: \(-1\) \item Periodo: \(\pi\) \item Desplazamiento de fase: \(\frac{\pi}{6}\) \end{itemize}
+D) \begin{itemize} \item Amplitud: \(-\frac{1}{3}\) \item Periodo: \(2\pi\) \item Desplazamiento de fase: \(\frac{\pi}{3}\) \end{itemize}
+ANSWER: A
+Encuentre la amplitud, el periodo y el desplazamiento de fase de la ecuación $$y=-cos(6x+\pi)-2$$
+A) \begin{itemize} \item Amplitud: \(1\) \item Periodo: \(\frac{\pi}{3}\) \item Desplazamiento de fase: \(-\frac{\pi}{6}\) \end{itemize}
+B) \begin{itemize} \item Amplitud: \(-1\) \item Periodo: \(\frac{\pi}{3}\) \item Desplazamiento de fase: \(-\frac{\pi}{2}\) \end{itemize}
+C) \begin{itemize} \item Amplitud: \(6\) \item Periodo: \(6\pi\) \item Desplazamiento de fase: \(\frac{\pi}{6}\) \end{itemize}
+D) \begin{itemize} \item Amplitud: -2 \item Periodo: \(2\pi/6\) \item Desplazamiento de fase: \(-\frac{\pi}{3}\) \end{itemize}
+ANSWER: A
+Encuentre la amplitud, el periodo y el desplazamiento de fase de la ecuación $$y=cos(2x-\pi)+2$$
+A) \begin{itemize} \item La amplitud de la función \( y = \cos(2x - \pi) + 2 \) es \( 1 \). \item El periodo de la función \( y = \cos(2x - \pi) + 2 \) es \( \pi \). \item El desplazamiento de fase de la función \( y = \cos(2x - \pi) + 2 \) es \( \frac{\pi}{2} \). \end{itemize}
+B) \begin{itemize} \item La amplitud de la función \( y = \cos(2x - \pi) + 2 \) es \( 2 \). \item El periodo de la función \( y = \cos(2x - \pi) + 2 \) es \( 2\pi \). \item El desplazamiento de fase de la función \( y = \cos(2x - \pi) + 2 \) es \( -\frac{\pi}{2} \). \end{itemize}
+C) \begin{itemize} \item La amplitud de la función \( y = \cos(2x - \pi) + 2 \) es \( -1 \). \item El periodo de la función \( y = \cos(2x - \pi) + 2 \) es \( \frac{\pi}{2} \). \item El desplazamiento de fase de la función \( y = \cos(2x - \pi) + 2 \) es \( \pi \). \end{itemize}
+D) \begin{itemize} \item La amplitud de la función \( y = \cos(2x - \pi) + 2 \) es \( 0.5 \). \item El periodo de la función \( y = \cos(2x - \pi) + 2 \) es \( 4\pi \). \item El desplazamiento de fase de la función \( y = \cos(2x - \pi) + 2 \) es \( -\pi \). \end{itemize}
+ANSWER: A
+Encuentre la amplitud, el periodo y el desplazamiento de fase de la ecuación $$y=-5sen(3x+\pi)$$
+A) \begin{itemize} \item La amplitud de la función \( y = -5 \sin(3x + \pi) \) es \( 5 \). \item El periodo de la función \( y = -5 \sin(3x + \pi) \) es \( \frac{2\pi}{3} \). \item El desplazamiento de fase de la función \( y = -5 \sin(3x + \pi) \) es \( -\frac{\pi}{3} \). \end{itemize}
+B) \begin{itemize} \item La amplitud de la función \( y = -5 \sin(3x + \pi) \) es \( -5 \). \item El periodo de la función \( y = -5 \sin(3x + \pi) \) es \( 2\pi \). \item El desplazamiento de fase de la función \( y = -5 \sin(3x + \pi) \) es \( \frac{\pi}{3} \). \end{itemize}
+C) \begin{itemize} \item La amplitud de la función \( y = -5 \sin(3x + \pi) \) es \( 3 \). \item El periodo de la función \( y = -5 \sin(3x + \pi) \) es \( \frac{\pi}{2} \). \item El desplazamiento de fase de la función \( y = -5 \sin(3x + \pi) \) es \( \pi \). \end{itemize}
+D) \begin{itemize} \item La amplitud de la función \( y = -5 \sin(3x + \pi) \) es \( 1 \). \item El periodo de la función \( y = -5 \sin(3x + \pi) \) es \( 3 \pi \). \item El desplazamiento de fase de la función \( y = -5 \sin(3x + \pi) \) es \( -\pi \). \end{itemize}
+ANSWER: A
+Encuentre la amplitud, el periodo y el desplazamiento de fase de la ecuación $$y=3cos(3x-\pi)$$
+A) \begin{itemize} \item La amplitud de la función \( y = 3 \cos(3x - \pi) \) es \( 3 \). \item El periodo de la función \( y = 3 \cos(3x - \pi) \) es \( \frac{2\pi}{3} \). \item El desplazamiento de fase de la función \( y = 3 \cos(3x - \pi) \) es \( \frac{\pi}{3} \). \end{itemize}
+B) \begin{itemize} \item La amplitud de la función \( y = 3 \cos(3x - \pi) \) es \( -3 \). \item El periodo de la función \( y = 3 \cos(3x - \pi) \) es \( 2\pi \). \item El desplazamiento de fase de la función \( y = 3 \cos(3x - \pi) \) es \( -\frac{\pi}{3} \). \end{itemize}
+C) \begin{itemize} \item La amplitud de la función \( y = 3 \cos(3x - \pi) \) es \( 1 \). \item El periodo de la función \( y = 3 \cos(3x - \pi) \) es \( \frac{\pi}{2} \). \item El desplazamiento de fase de la función \( y = 3 \cos(3x - \pi) \) es \( \pi \). \end{itemize}
+D) \begin{itemize} \item La amplitud de la función \( y = 3 \cos(3x - \pi) \) es \( 5 \). \item El periodo de la función \( y = 3 \cos(3x - \pi) \) es \( 3\pi \). \item El desplazamiento de fase de la función \( y = 3 \cos(3x - \pi) \) es \( -\pi \). \end{itemize}
+ANSWER: A

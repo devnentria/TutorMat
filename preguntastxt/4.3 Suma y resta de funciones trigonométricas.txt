@@ -1,0 +1,60 @@
+Calcula \(\tan x\).
+A) \(\tan x= \frac{8\sqrt{5}}{65}\)
+B) \(\tan x= \frac{6\sqrt{4}}{45}\)
+C) \(\tan x= \frac{24}{6\sqrt{3}}\)
+D) \(\tan x= \frac{2}{3}\)
+ANSWER: A
+Calcule el valor de \( x \) para que el ángulo \( \theta \) sea el máximo.
+A) \( \sqrt{2} \)
+B) \( \sqrt{3} \)
+C) \( \sqrt{5} \)
+D) \( \sqrt{7} \)
+ANSWER: A
+Desde un planeador que vuela a 60 metros del suelo, se toman dos observaciones de un objeto fijo en tierra que se encuentra directamente frente a él; las observaciones se toman con una diferencia de un minuto, ¿cuál es la rapidez del planeador en m/s?
+A) \(\approx 0.6628\) m/s
+B) \(\approx 0.5564\) m/s
+C) \(\approx 0.734\) m/s
+D) \(\approx 0.492\) m/s
+ANSWER: A
+En la figura mostrada \( BM = MC \), hallar el máximo valor que puede tomar \( \tan \theta \).
+A) \( \frac{\sqrt{2}}{4} \)
+B) \( \frac{\sqrt{4}}{2} \)
+C) \( \frac{3}{\sqrt{2}} \)
+D) \( \frac{2}{\sqrt{4}} \)
+ANSWER: A
+Encuentre el área de un triángulo isósceles, cuyos lados iguales tienen longitud \(s\) y \(\theta \) es el ángulo entre ellos.
+A) \(\frac{1}{2} s^2 sen \theta \)
+B) \(\frac{1}{3} s^2 \cos^2 \theta \)
+C) \(\frac{1}{2} h^2 sen^2 \theta \)
+D) \(\frac{1}{2} h^2 \cos \theta \)
+ANSWER: A
+Encuentre el área \( A\) de un rectángulo inscrito en un semicírculo de radio 1 como función del ángulo \(\theta \).
+A) \(A=sen 2\theta \)
+B) \(A=\cos 2\theta \)
+C) \(A=sen \theta \cos \theta \)
+D) \(A=sen^2\theta \)
+ANSWER: A
+Hallar \( f_{máx} + f_{min} \), si \(f\) es una función definida por \(f(x)=3\sen ^2x+4(\sen x)(\cos x) + 5\cos ^2 x\).
+A) 8
+B) 4
+C) 2
+D) 6
+ANSWER: A
+Hallar \(\tan \alpha\).
+A) \( \frac{10}{11} \)
+B) \( \frac{11}{10} \)
+C) \( \frac{5}{10} \)
+D) \( \frac{11}{7} \)
+ANSWER: A
+Un objeto se dispara hacia arriba a un ángulo \(\theta \), \(45°<\theta <90°\), respecto a la horizontal con una velocidad inicial de \(v_0\) pies por segundo desde la base de un plano que forma un ángulo de 45° con la horizontal. La distancia que recorre hacia arriba del plano inclinado está dada por $$R=\frac {v_0^2\sqrt{2}}{32}[\sen (2\theta )-\cos (2\theta ) -1]$$ Si la velocidad inicial es de 32 pies por segundo, ¿qué ángulo da la mayor distancia \(R\)?
+A) \(\theta 67.5°= \)
+B) \(\theta 135°= \)
+C) \(\theta 45.5°= \)
+D) \(\theta 87.5°= \)
+ANSWER: A
+\( ABCD \) es un cuadrado, \(AB=BE \) y \(AP = 2(PE) \). Hallar \( 3tan\alpha \).
+A) \(2+ \sqrt{7} \)
+B) \(3+ \sqrt{2} \)
+C) \(3+ \sqrt{7} \)
+D) \(2+ \sqrt{4} \)
+ANSWER: A
