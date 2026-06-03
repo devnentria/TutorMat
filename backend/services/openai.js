@@ -56,8 +56,32 @@ async function getFeedback({ questionText, options, selectedOption, correctOptio
   const selectedText = options[optLabels.indexOf(selectedOption)] || selectedOption;
   const correctText = options[optLabels.indexOf(correctOption)] || correctOption;
 
+  // Detectar tipo de problema para forzar escena correcta
+  const qLower = questionText.toLowerCase();
+  let sceneOverride = null;
+  if (/c[ií]rculo unitario|circunferencia unitaria|ángulo en posición estándar|posici[oó]n est[aá]ndar/.test(qLower)) {
+    sceneOverride = 'unit_circle';
+  } else if (/funci[oó]n sinusoidal|funci[oó]n coseno|onda|periodo|amplitud|frecuencia/.test(qLower)) {
+    sceneOverride = 'wave';
+  } else if (/puente|cable|estructura/.test(qLower)) {
+    sceneOverride = 'bridge';
+  } else if (/escalera|pared/.test(qLower)) {
+    sceneOverride = 'ladder';
+  } else if (/rampa|pendiente|plano inclinado/.test(qLower)) {
+    sceneOverride = 'ramp';
+  } else if (/edificio|torre|altura.*edificio/.test(qLower)) {
+    sceneOverride = 'building';
+  } else if (/monta[ñn]a|cerro|elevaci[oó]n|depresi[oó]n/.test(qLower)) {
+    sceneOverride = 'mountain';
+  } else if (/árbol|sombra|poste/.test(qLower)) {
+    sceneOverride = 'tree_shadow';
+  } else if (/barco|nav[eo]|faro|br[uú]jula/.test(qLower)) {
+    sceneOverride = 'navigation';
+  }
+
   // Contexto aleatorio para evitar que el modelo siempre elija el mismo
-  const { ctx: randomCtx, scene: forcedScene } = REAL_CONTEXTS[Math.floor(Math.random() * REAL_CONTEXTS.length)];
+  const { ctx: randomCtx, scene: forcedSceneRandom } = REAL_CONTEXTS[Math.floor(Math.random() * REAL_CONTEXTS.length)];
+  const forcedScene = sceneOverride || forcedSceneRandom;
 
   const situacion = isCorrect
     ? `El estudiante respondió correctamente (opción ${selectedOption}).`
@@ -106,8 +130,8 @@ Devuelve el resultado matemático al contexto real: ¿qué significa ese valor o
 
 **Paso 7 — Validación:**
 ${isCorrect
-  ? `El estudiante respondió correctamente. Refuerza por qué la opción ${correctOption} es coherente con el modelo. Invita explícitamente al estudiante a juzgar la plausibilidad: ¿el valor obtenido tiene sentido en el contexto real? ¿Qué pasaría si el resultado fuera mucho mayor o menor?`
-  : `Identifica en QUÉ FASE del ciclo ocurrió el error al elegir ${selectedOption}: ¿fue un error de comprensión de la situación (fase 1-2), de simplificación/modelización (fase 3), de selección de la fórmula (fase 4), o de cálculo (fase 5)? Explica el error conceptual con precisión. Confirma por qué ${correctOption} es correcta. Cierra validando la plausibilidad del resultado correcto en el contexto real.`}
+  ? `El estudiante respondió correctamente. Refuerza por qué la opción ${correctOption} es matemáticamente correcta. Luego regresa OBLIGATORIAMENTE al contexto real de "${randomCtx}": ¿qué significa este resultado para el profesional en esa situación? ¿Es plausible ese valor en la práctica? ¿Qué consecuencia real tendría si el resultado fuera diferente?`
+  : `Identifica en QUÉ FASE del ciclo ocurrió el error al elegir ${selectedOption}: ¿fue un error de comprensión (fase 1-2), de modelización (fase 3), de selección de fórmula (fase 4) o de cálculo (fase 5)? Explica el error conceptual con precisión. Confirma por qué ${correctOption} es correcta. Luego regresa OBLIGATORIAMENTE al contexto real de "${randomCtx}": ¿qué consecuencia real tendría haber cometido ese error en esa situación profesional? ¿El resultado correcto es plausible y tiene sentido en la práctica?`}
 
 TONO: motivador, profesional pero cercano. Como un tutor que acompaña, no que juzga. Español mexicano. Usa negritas (**texto**) para términos clave y fórmulas.`;
 
