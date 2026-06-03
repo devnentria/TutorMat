@@ -40,8 +40,8 @@ import-results.json
 importQuestions.js
 /index.css
 index.js
-postcss.config.js
-tailwind.config.js
+/postcss.config.js
+/tailwind.config.js
 preguntastxt
 questions-needing-images.json
 evaluacion-adaptativa/
