@@ -132,6 +132,38 @@ router.get('/sessions', (req, res) => {
   res.json(sessions);
 });
 
+// GET /api/admin/teachers - Lista de docentes
+router.get('/teachers', (req, res) => {
+  const teachers = db.prepare(`
+    SELECT u.id, u.username, u.name, u.country, u.state, u.school, u.created_at,
+           COUNT(DISTINCT g.id) as group_count,
+           COUNT(DISTINCT st.id) as student_count
+    FROM users u
+    LEFT JOIN groups g ON g.teacher_id = u.id
+    LEFT JOIN users st ON st.group_id = g.id AND st.role = 'student'
+    WHERE u.role = 'teacher'
+    GROUP BY u.id
+    ORDER BY u.created_at DESC
+  `).all();
+  res.json(teachers);
+});
+
+// DELETE /api/admin/teachers/:id - Dar de baja a un docente
+router.delete('/teachers/:id', (req, res) => {
+  const teacher = db.prepare("SELECT * FROM users WHERE id = ? AND role = 'teacher'").get(req.params.id);
+  if (!teacher) return res.status(404).json({ error: 'Docente no encontrado' });
+
+  const groups = db.prepare('SELECT id FROM groups WHERE teacher_id = ?').all(req.params.id);
+  for (const g of groups) {
+    db.prepare('UPDATE users SET group_id = NULL WHERE group_id = ?').run(g.id);
+    db.prepare('DELETE FROM activities WHERE group_id = ?').run(g.id);
+  }
+  db.prepare('DELETE FROM groups WHERE teacher_id = ?').run(req.params.id);
+  db.prepare('DELETE FROM users WHERE id = ?').run(req.params.id);
+
+  res.json({ success: true });
+});
+
 // GET /api/admin/questions - Estadísticas de preguntas
 router.get('/questions', (req, res) => {
   const stats = db.prepare(`

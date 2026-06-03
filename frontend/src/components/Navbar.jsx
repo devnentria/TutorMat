@@ -63,8 +63,8 @@ export default function Navbar() {
             )}
             {user?.role === 'admin' && (
               <>
-                <NavLink to="/admin" active={isActive('/admin')}>Dashboard</NavLink>
-                <NavLink to="/admin/students" active={isActive('/admin/students')}>Estudiantes</NavLink>
+                <NavLink to="/admin/teachers" active={location.pathname.startsWith('/admin/teachers')}>Docentes</NavLink>
+                <NavLink to="/admin" active={isActive('/admin')}>Estadísticas</NavLink>
               </>
             )}
 
@@ -182,8 +182,8 @@ export default function Navbar() {
           )}
           {user?.role === 'admin' && (
             <>
-              <MobileNavLink to="/admin" onClick={() => setMenuOpen(false)}>Dashboard</MobileNavLink>
-              <MobileNavLink to="/admin/students" onClick={() => setMenuOpen(false)}>Estudiantes</MobileNavLink>
+              <MobileNavLink to="/admin/teachers" onClick={() => setMenuOpen(false)}>Docentes</MobileNavLink>
+              <MobileNavLink to="/admin" onClick={() => setMenuOpen(false)}>Estadísticas</MobileNavLink>
             </>
           )}
           {user ? (

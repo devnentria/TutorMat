@@ -10,6 +10,7 @@ import Results from './components/Evaluation/Results';
 import Dashboard from './components/Admin/Dashboard';
 import StudentList from './components/Admin/StudentList';
 import StudentDetail from './components/Admin/StudentDetail';
+import TeachersList from './components/Admin/TeachersList';
 import TeacherDashboard from './components/Teacher/TeacherDashboard';
 import GroupDetail from './components/Teacher/GroupDetail';
 import GroupStats from './components/Teacher/GroupStats';
@@ -34,7 +35,7 @@ function RoleRedirect() {
   if (!user) return <Navigate to="/login" replace />;
   if (user.role === 'student') return <Navigate to="/student" replace />;
   if (user.role === 'teacher') return <Navigate to="/teacher" replace />;
-  if (user.role === 'admin') return <Navigate to="/admin" replace />;
+  if (user.role === 'admin') return <Navigate to="/teacher" replace />;
   return <Navigate to="/login" replace />;
 }
 
@@ -86,6 +87,9 @@ function AppRoutes() {
       {/* Admin */}
       <Route path="/admin" element={
         <ProtectedRoute roles={['admin']}><Dashboard /></ProtectedRoute>
+      } />
+      <Route path="/admin/teachers" element={
+        <ProtectedRoute roles={['admin']}><TeachersList /></ProtectedRoute>
       } />
       <Route path="/admin/students" element={
         <ProtectedRoute roles={['admin']}><StudentList /></ProtectedRoute>

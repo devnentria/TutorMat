@@ -75,7 +75,10 @@ export default function Dashboard() {
             <h1 className="text-3xl font-bold text-gray-800">Dashboard de Administrador</h1>
             <p className="text-gray-500">Indicadores generales del sistema EvaluTrig</p>
           </div>
-          <Link to="/admin/students" className="btn-primary">Ver Estudiantes</Link>
+          <div className="flex gap-2">
+            <Link to="/admin/teachers" className="btn-secondary">Ver Docentes</Link>
+            <Link to="/admin/students" className="btn-primary">Ver Estudiantes</Link>
+          </div>
         </div>
 
         {/* KPIs */}

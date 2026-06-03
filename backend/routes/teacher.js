@@ -15,6 +15,101 @@ function teacherOnly(req, res, next) {
 }
 router.use(teacherOnly);
 
+// ── Dashboard ─────────────────────────────────────────────────────────────────
+
+// GET /api/teacher/dashboard — estadísticas del docente
+router.get('/dashboard', (req, res) => {
+  const tid = req.user.id;
+
+  const totalStudents = db.prepare(`
+    SELECT COUNT(*) as n FROM users u
+    JOIN groups g ON u.group_id = g.id
+    WHERE g.teacher_id = ? AND u.role = 'student'
+  `).get(tid).n;
+
+  const totalSessions = db.prepare(`
+    SELECT COUNT(*) as n FROM sessions s
+    JOIN users u ON s.user_id = u.id
+    JOIN groups g ON u.group_id = g.id
+    WHERE g.teacher_id = ?
+  `).get(tid).n;
+
+  const completedSessions = db.prepare(`
+    SELECT COUNT(*) as n FROM sessions s
+    JOIN users u ON s.user_id = u.id
+    JOIN groups g ON u.group_id = g.id
+    WHERE g.teacher_id = ? AND s.status = 'completed'
+  `).get(tid).n;
+
+  const avgAccuracy = db.prepare(`
+    SELECT AVG(CAST(s.correct_answers AS REAL) / s.total_questions) as avg
+    FROM sessions s
+    JOIN users u ON s.user_id = u.id
+    JOIN groups g ON u.group_id = g.id
+    WHERE g.teacher_id = ? AND s.total_questions > 0
+  `).get(tid).avg;
+
+  const abilityDist = db.prepare(`
+    SELECT
+      CASE
+        WHEN final_ability < -1.5 THEN 'Básico'
+        WHEN final_ability < 0    THEN 'En proceso'
+        WHEN final_ability < 1.5  THEN 'Competente'
+        ELSE 'Avanzado'
+      END as level, COUNT(*) as count
+    FROM sessions s
+    JOIN users u ON s.user_id = u.id
+    JOIN groups g ON u.group_id = g.id
+    WHERE g.teacher_id = ? AND s.status = 'completed' AND s.final_ability IS NOT NULL
+    GROUP BY level
+  `).all(tid);
+
+  const sessionsByDay = db.prepare(`
+    SELECT DATE(s.start_time) as date, COUNT(*) as count
+    FROM sessions s
+    JOIN users u ON s.user_id = u.id
+    JOIN groups g ON u.group_id = g.id
+    WHERE g.teacher_id = ? AND s.start_time >= DATE('now', '-30 days')
+    GROUP BY DATE(s.start_time)
+    ORDER BY date
+  `).all(tid);
+
+  const categoryPerf = db.prepare(`
+    SELECT q.category,
+           COUNT(*) as total, SUM(r.is_correct) as correct
+    FROM responses r
+    JOIN questions q ON r.question_id = q.id
+    JOIN sessions s ON r.session_id = s.id
+    JOIN users u ON s.user_id = u.id
+    JOIN groups g ON u.group_id = g.id
+    WHERE g.teacher_id = ?
+    GROUP BY q.category
+    ORDER BY q.category
+  `).all(tid);
+
+  const groups = db.prepare(`
+    SELECT g.*, COUNT(u.id) as student_count
+    FROM groups g
+    LEFT JOIN users u ON u.group_id = g.id AND u.role = 'student'
+    WHERE g.teacher_id = ?
+    GROUP BY g.id
+    ORDER BY g.created_at DESC
+  `).all(tid);
+
+  res.json({
+    totals: {
+      students: totalStudents,
+      sessions: totalSessions,
+      completed_sessions: completedSessions,
+      avg_accuracy: avgAccuracy ? Math.round(avgAccuracy * 100) : 0
+    },
+    ability_distribution: abilityDist,
+    sessions_by_day: sessionsByDay,
+    category_performance: categoryPerf,
+    groups
+  });
+});
+
 // ── Grupos ────────────────────────────────────────────────────────────────────
 
 // GET /api/teacher/groups

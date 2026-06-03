@@ -78,6 +78,7 @@ export const student = {
 // ── Teacher ───────────────────────────────────────────────────────────────────
 
 export const teacher = {
+  getDashboard: () => request('GET', '/teacher/dashboard'),
   getGroups: () => request('GET', '/teacher/groups'),
   createGroup: (name, description) => request('POST', '/teacher/groups', { name, description }),
   updateGroup: (id, name, description) => request('PUT', `/teacher/groups/${id}`, { name, description }),
@@ -112,4 +113,6 @@ export const admin = {
   getStudent: (id) => request('GET', `/admin/students/${id}`),
   getSessions: () => request('GET', '/admin/sessions'),
   getQuestions: () => request('GET', '/admin/questions'),
+  getTeachers: () => request('GET', '/admin/teachers'),
+  deleteTeacher: (id) => request('DELETE', `/admin/teachers/${id}`),
 };

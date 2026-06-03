@@ -14,7 +14,7 @@ export default function Login() {
   const [showPassword, setShowPassword] = useState(false);
 
   if (user) {
-    const dest = user.role === 'admin' ? '/admin' : user.role === 'teacher' ? '/teacher' : '/student';
+    const dest = user.role === 'admin' ? '/teacher' : user.role === 'teacher' ? '/teacher' : '/student';
     return <Navigate to={dest} replace />;
   }
 
